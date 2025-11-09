@@ -1,0 +1,1201 @@
+Region,Disease,Cases,Month,Year
+West,Leptospirosis,75,Apr,2023
+Central,Rabies,105,Feb,2024
+East,Ringworm,90,Mar,2024
+Central,Leptospirosis,9,Jun,2023
+Central,Tick Fever,59,Jun,2024
+South,Parvovirus,6,Mar,2024
+East,Tick Fever,66,Aug,2023
+East,Distemper,95,Mar,2023
+East,Ringworm,25,Feb,2024
+Central,Tick Fever,106,Mar,2024
+West,Rabies,83,Feb,2024
+East,Distemper,25,Jun,2023
+Central,Distemper,14,Mar,2023
+South,Tick Fever,91,May,2024
+West,Tick Fever,62,Jul,2023
+South,Ringworm,43,May,2023
+West,Parvovirus,9,Jun,2024
+Central,Tick Fever,69,Feb,2024
+North,Tick Fever,17,May,2023
+West,Leptospirosis,89,Feb,2023
+South,Rabies,94,May,2024
+Central,Leptospirosis,118,May,2023
+West,Leptospirosis,113,Feb,2023
+North,Distemper,89,Apr,2024
+North,Parvovirus,57,May,2024
+East,Rabies,86,Mar,2023
+East,Ringworm,105,Jul,2023
+South,Ringworm,49,Jun,2023
+West,Tick Fever,36,Apr,2024
+West,Tick Fever,40,Feb,2023
+East,Ringworm,85,Apr,2023
+West,Tick Fever,103,Jan,2024
+West,Parvovirus,117,Jan,2024
+North,Leptospirosis,64,May,2023
+East,Tick Fever,15,May,2024
+Central,Distemper,67,Mar,2024
+East,Tick Fever,25,Jul,2023
+Central,Rabies,56,Jun,2024
+North,Parvovirus,59,Apr,2024
+South,Rabies,30,Jan,2023
+West,Rabies,72,May,2024
+North,Distemper,38,Aug,2023
+West,Parvovirus,56,Aug,2023
+South,Parvovirus,116,Jun,2024
+South,Parvovirus,86,Apr,2024
+North,Parvovirus,108,May,2024
+South,Parvovirus,103,May,2023
+Central,Distemper,109,Jan,2024
+South,Tick Fever,97,Jan,2023
+West,Rabies,56,May,2024
+West,Parvovirus,33,Feb,2024
+West,Tick Fever,42,May,2024
+West,Tick Fever,46,Jun,2023
+Central,Rabies,25,May,2024
+East,Distemper,46,Mar,2024
+North,Ringworm,17,Jul,2023
+West,Ringworm,117,Mar,2023
+South,Tick Fever,109,Mar,2024
+West,Leptospirosis,68,Feb,2024
+South,Leptospirosis,21,Feb,2024
+South,Rabies,13,Aug,2023
+West,Ringworm,45,May,2023
+Central,Tick Fever,5,Mar,2023
+South,Distemper,6,Feb,2023
+South,Ringworm,64,Jan,2024
+West,Tick Fever,52,May,2023
+South,Tick Fever,33,Jun,2023
+South,Parvovirus,101,Jul,2023
+West,Distemper,14,Apr,2024
+West,Parvovirus,118,May,2024
+North,Rabies,62,Apr,2023
+Central,Parvovirus,64,Mar,2023
+Central,Parvovirus,108,Jul,2024
+South,Ringworm,25,Apr,2024
+Central,Leptospirosis,32,Mar,2024
+South,Tick Fever,79,Jan,2024
+North,Distemper,38,Apr,2024
+West,Parvovirus,12,Jul,2024
+West,Distemper,63,Aug,2024
+West,Leptospirosis,90,May,2024
+Central,Leptospirosis,76,Mar,2023
+North,Parvovirus,53,May,2023
+Central,Rabies,83,Jul,2023
+Central,Parvovirus,21,Feb,2023
+North,Ringworm,64,Mar,2023
+North,Tick Fever,91,Apr,2023
+North,Rabies,92,Mar,2024
+North,Parvovirus,49,May,2024
+West,Distemper,87,Jan,2023
+East,Rabies,73,Mar,2023
+East,Rabies,36,Apr,2024
+North,Parvovirus,48,Feb,2024
+East,Rabies,69,Aug,2024
+East,Distemper,91,Jun,2023
+North,Leptospirosis,105,Jan,2024
+East,Rabies,12,Aug,2023
+Central,Leptospirosis,81,Feb,2023
+South,Distemper,76,Mar,2024
+South,Parvovirus,91,May,2024
+North,Tick Fever,47,Jul,2023
+West,Rabies,5,May,2024
+North,Tick Fever,113,Aug,2024
+West,Distemper,55,Apr,2023
+South,Rabies,28,May,2024
+North,Leptospirosis,103,Jan,2023
+Central,Ringworm,28,May,2023
+East,Tick Fever,21,Apr,2024
+West,Rabies,9,Jun,2023
+East,Tick Fever,24,Mar,2023
+East,Rabies,25,Jul,2024
+North,Parvovirus,108,Aug,2024
+East,Leptospirosis,62,Mar,2024
+Central,Tick Fever,35,May,2023
+East,Ringworm,114,Feb,2023
+North,Ringworm,104,Mar,2024
+Central,Distemper,15,Jun,2023
+South,Rabies,56,May,2024
+East,Tick Fever,19,Jul,2024
+North,Distemper,87,Apr,2023
+South,Tick Fever,11,Jun,2024
+South,Rabies,119,May,2023
+West,Ringworm,32,Jun,2023
+Central,Parvovirus,55,Mar,2024
+East,Ringworm,111,Jul,2023
+North,Distemper,62,Apr,2024
+West,Leptospirosis,9,May,2023
+Central,Parvovirus,9,Jan,2023
+West,Distemper,98,Aug,2023
+Central,Rabies,100,Apr,2024
+Central,Parvovirus,12,Jan,2023
+East,Distemper,68,Jun,2024
+Central,Rabies,14,Feb,2023
+West,Ringworm,42,Apr,2023
+Central,Leptospirosis,115,Jun,2024
+East,Rabies,100,Jan,2024
+East,Tick Fever,116,Mar,2024
+West,Rabies,96,Mar,2024
+South,Rabies,85,Feb,2024
+South,Leptospirosis,99,Aug,2023
+Central,Tick Fever,12,Apr,2023
+North,Distemper,108,Apr,2024
+Central,Distemper,29,Apr,2023
+West,Rabies,77,Aug,2023
+West,Tick Fever,70,Jun,2023
+West,Tick Fever,83,Jul,2024
+West,Leptospirosis,54,Jul,2023
+West,Ringworm,71,Feb,2023
+East,Distemper,53,Apr,2023
+South,Leptospirosis,40,Jun,2024
+West,Parvovirus,72,Mar,2023
+North,Distemper,82,Jan,2023
+North,Leptospirosis,109,Jun,2024
+North,Distemper,45,Aug,2024
+North,Ringworm,93,Jul,2023
+East,Parvovirus,66,Jul,2023
+North,Ringworm,118,Mar,2024
+West,Parvovirus,14,Mar,2024
+Central,Rabies,25,Aug,2024
+North,Leptospirosis,40,Jan,2024
+East,Parvovirus,16,Mar,2024
+East,Ringworm,95,Feb,2024
+North,Distemper,108,Jan,2024
+Central,Parvovirus,6,Mar,2023
+North,Leptospirosis,17,May,2024
+East,Parvovirus,57,Jun,2024
+South,Tick Fever,36,Mar,2023
+West,Distemper,99,Feb,2024
+East,Leptospirosis,20,Apr,2024
+North,Leptospirosis,36,Mar,2023
+West,Rabies,36,Jul,2024
+North,Ringworm,102,Jul,2023
+North,Rabies,15,Jul,2023
+South,Leptospirosis,14,Apr,2023
+West,Distemper,19,Jul,2023
+West,Parvovirus,21,May,2024
+South,Parvovirus,44,Mar,2023
+East,Distemper,22,Aug,2023
+North,Leptospirosis,59,Jul,2024
+Central,Parvovirus,77,Jan,2023
+North,Parvovirus,29,Aug,2023
+North,Parvovirus,108,Apr,2023
+East,Ringworm,63,May,2023
+North,Ringworm,82,Jan,2024
+South,Tick Fever,93,Jan,2023
+South,Rabies,118,Jan,2024
+West,Distemper,26,Jan,2024
+Central,Distemper,34,Aug,2023
+North,Distemper,88,Aug,2023
+North,Tick Fever,89,Mar,2023
+East,Ringworm,48,Jul,2023
+South,Leptospirosis,36,Jun,2024
+Central,Leptospirosis,55,Mar,2024
+West,Tick Fever,50,Mar,2024
+South,Leptospirosis,117,May,2023
+West,Distemper,25,May,2024
+East,Rabies,103,Jul,2023
+East,Parvovirus,36,Jun,2023
+North,Ringworm,98,May,2023
+Central,Ringworm,43,Jul,2023
+West,Tick Fever,117,Jul,2023
+South,Ringworm,16,Aug,2024
+East,Distemper,109,Feb,2024
+North,Leptospirosis,51,Aug,2023
+North,Distemper,22,Jun,2024
+West,Tick Fever,25,May,2023
+East,Distemper,17,Jun,2023
+Central,Leptospirosis,25,Mar,2023
+East,Rabies,12,Mar,2024
+West,Tick Fever,50,Jun,2023
+West,Rabies,108,Feb,2023
+East,Parvovirus,114,Feb,2024
+West,Rabies,11,Aug,2024
+East,Parvovirus,27,Jun,2024
+South,Parvovirus,112,May,2023
+East,Rabies,100,Aug,2023
+East,Tick Fever,79,Apr,2024
+West,Leptospirosis,90,Feb,2023
+West,Distemper,26,Jan,2024
+North,Distemper,111,Aug,2024
+North,Leptospirosis,93,Mar,2023
+South,Parvovirus,26,Aug,2023
+North,Parvovirus,96,Jun,2024
+East,Tick Fever,33,Jan,2024
+West,Ringworm,17,Jun,2024
+North,Rabies,86,Jul,2024
+North,Parvovirus,6,Mar,2023
+South,Distemper,33,Mar,2024
+South,Tick Fever,89,Feb,2024
+East,Rabies,83,Aug,2024
+West,Tick Fever,56,Feb,2023
+South,Rabies,31,Jan,2023
+North,Rabies,54,Aug,2024
+West,Leptospirosis,99,Jul,2023
+West,Parvovirus,83,Jun,2023
+North,Tick Fever,119,Jul,2023
+South,Tick Fever,27,Mar,2024
+North,Leptospirosis,92,Jan,2024
+West,Distemper,48,Apr,2023
+Central,Distemper,81,Jan,2024
+Central,Parvovirus,26,May,2024
+East,Parvovirus,47,Jan,2023
+North,Ringworm,41,Jul,2023
+North,Leptospirosis,65,May,2024
+East,Distemper,101,May,2023
+East,Rabies,60,Aug,2024
+East,Tick Fever,7,Aug,2024
+West,Parvovirus,67,May,2023
+North,Tick Fever,23,Apr,2024
+West,Tick Fever,27,Aug,2024
+East,Ringworm,33,Jan,2023
+North,Distemper,34,Jul,2023
+West,Parvovirus,43,Jan,2023
+West,Tick Fever,112,Apr,2024
+East,Parvovirus,115,Mar,2023
+North,Rabies,29,Feb,2023
+East,Ringworm,105,Jul,2023
+North,Rabies,115,Aug,2023
+Central,Parvovirus,12,Jul,2024
+South,Parvovirus,110,Jan,2024
+South,Distemper,62,Feb,2023
+South,Tick Fever,20,Jun,2024
+East,Tick Fever,76,Jun,2023
+Central,Rabies,5,Aug,2023
+North,Ringworm,112,Apr,2024
+West,Leptospirosis,9,Jun,2024
+North,Tick Fever,7,Jul,2023
+West,Distemper,69,Jun,2023
+North,Rabies,8,Mar,2024
+Central,Rabies,108,Mar,2023
+West,Leptospirosis,103,Aug,2024
+East,Distemper,100,Mar,2023
+North,Ringworm,68,Jun,2023
+North,Distemper,110,Apr,2024
+West,Ringworm,102,May,2024
+East,Distemper,111,May,2024
+East,Distemper,93,Aug,2024
+Central,Parvovirus,14,Feb,2024
+East,Rabies,25,May,2024
+East,Distemper,50,May,2024
+East,Leptospirosis,107,Mar,2023
+South,Distemper,95,Mar,2023
+Central,Tick Fever,31,Jun,2023
+North,Rabies,70,Aug,2024
+West,Tick Fever,45,Feb,2024
+North,Rabies,116,Aug,2024
+Central,Tick Fever,17,Jan,2023
+West,Distemper,13,Jul,2024
+Central,Distemper,40,Feb,2024
+East,Parvovirus,90,Feb,2023
+West,Leptospirosis,110,Apr,2024
+East,Tick Fever,94,Aug,2023
+North,Ringworm,62,Jun,2023
+North,Parvovirus,58,Apr,2024
+West,Tick Fever,16,Feb,2024
+West,Tick Fever,85,Feb,2024
+Central,Parvovirus,82,Feb,2023
+Central,Distemper,18,May,2023
+East,Tick Fever,38,Aug,2023
+West,Distemper,57,Jul,2024
+North,Parvovirus,24,Jul,2024
+Central,Distemper,79,Apr,2024
+Central,Rabies,20,Feb,2024
+North,Ringworm,119,Jul,2023
+Central,Tick Fever,99,Mar,2023
+East,Leptospirosis,74,Aug,2023
+West,Ringworm,60,Jul,2023
+North,Distemper,87,Jun,2024
+West,Tick Fever,105,Aug,2024
+Central,Distemper,62,Jun,2024
+Central,Rabies,8,Jul,2023
+North,Parvovirus,115,Mar,2023
+East,Tick Fever,8,Jun,2024
+South,Rabies,24,May,2024
+North,Rabies,14,Jul,2023
+South,Tick Fever,28,May,2024
+South,Distemper,103,Jul,2023
+East,Leptospirosis,30,Jan,2023
+South,Rabies,41,Jan,2023
+South,Ringworm,106,Jan,2024
+East,Rabies,89,Jun,2024
+South,Leptospirosis,58,May,2023
+South,Distemper,108,May,2024
+South,Distemper,107,May,2023
+North,Ringworm,25,Mar,2023
+North,Rabies,78,May,2023
+North,Distemper,42,Mar,2023
+East,Leptospirosis,50,Jan,2024
+Central,Tick Fever,8,Jan,2023
+South,Parvovirus,64,Jun,2023
+South,Parvovirus,61,Jul,2024
+East,Parvovirus,49,Jan,2023
+South,Rabies,24,Jul,2023
+North,Ringworm,21,Jul,2024
+Central,Distemper,75,Aug,2024
+West,Tick Fever,8,Jun,2024
+South,Leptospirosis,97,Feb,2023
+North,Tick Fever,18,Feb,2024
+West,Leptospirosis,7,Apr,2024
+Central,Rabies,92,Aug,2023
+West,Parvovirus,105,Jun,2023
+North,Rabies,84,Apr,2023
+West,Ringworm,62,Apr,2023
+East,Ringworm,59,Aug,2023
+West,Leptospirosis,8,Feb,2024
+South,Distemper,28,Jun,2024
+South,Distemper,38,Feb,2024
+East,Leptospirosis,34,Apr,2023
+North,Ringworm,86,Jun,2023
+South,Ringworm,23,Apr,2023
+Central,Ringworm,35,May,2024
+South,Rabies,64,Aug,2024
+South,Ringworm,64,Jul,2023
+North,Tick Fever,23,Jun,2024
+West,Parvovirus,53,Jun,2023
+South,Ringworm,67,Jul,2024
+East,Leptospirosis,114,Apr,2024
+West,Parvovirus,87,May,2024
+Central,Rabies,26,Mar,2023
+North,Leptospirosis,28,Jul,2024
+Central,Parvovirus,113,Aug,2024
+West,Leptospirosis,80,Feb,2023
+West,Rabies,34,Apr,2024
+West,Tick Fever,62,Jul,2023
+Central,Rabies,106,Jul,2023
+West,Rabies,35,Jun,2023
+Central,Leptospirosis,104,Feb,2023
+West,Distemper,68,Feb,2023
+East,Ringworm,23,Aug,2024
+West,Ringworm,52,Feb,2023
+Central,Tick Fever,49,Jul,2023
+South,Tick Fever,104,Mar,2023
+West,Ringworm,98,Jan,2023
+South,Distemper,59,Apr,2024
+East,Ringworm,117,Jan,2023
+North,Distemper,59,Jul,2024
+East,Tick Fever,101,Jan,2023
+West,Parvovirus,22,Jul,2024
+South,Leptospirosis,67,Jan,2023
+South,Tick Fever,117,Feb,2023
+Central,Tick Fever,96,May,2024
+South,Rabies,51,Feb,2023
+Central,Rabies,79,Feb,2024
+North,Rabies,61,Aug,2023
+West,Leptospirosis,49,Jun,2024
+Central,Rabies,37,Jun,2023
+North,Distemper,21,Jan,2023
+South,Ringworm,74,Jul,2024
+South,Parvovirus,8,Aug,2023
+North,Tick Fever,24,Feb,2023
+South,Distemper,116,Aug,2023
+North,Parvovirus,51,Jan,2023
+Central,Distemper,95,Jun,2023
+Central,Distemper,19,May,2023
+North,Tick Fever,74,Apr,2024
+Central,Ringworm,51,Jan,2024
+Central,Rabies,82,Aug,2024
+Central,Leptospirosis,79,May,2023
+East,Ringworm,107,Apr,2024
+West,Leptospirosis,13,Mar,2023
+South,Tick Fever,94,Jan,2023
+East,Tick Fever,20,Jan,2023
+Central,Tick Fever,73,Mar,2023
+North,Parvovirus,65,Mar,2024
+Central,Leptospirosis,14,Jan,2023
+West,Ringworm,54,Mar,2024
+Central,Ringworm,7,Feb,2023
+North,Distemper,81,Apr,2024
+West,Distemper,111,Apr,2024
+Central,Distemper,117,Apr,2024
+West,Tick Fever,98,Feb,2024
+South,Ringworm,113,Jul,2024
+South,Leptospirosis,74,Mar,2024
+Central,Tick Fever,85,May,2023
+West,Parvovirus,113,Mar,2024
+North,Distemper,55,Jan,2023
+Central,Tick Fever,23,Jun,2024
+South,Tick Fever,46,Aug,2023
+South,Parvovirus,39,Aug,2024
+Central,Rabies,50,Apr,2024
+West,Ringworm,30,Mar,2023
+South,Leptospirosis,119,May,2024
+West,Rabies,73,Jan,2024
+South,Distemper,97,Feb,2024
+South,Tick Fever,68,Jul,2023
+East,Parvovirus,41,Feb,2024
+South,Parvovirus,88,May,2023
+North,Ringworm,53,Jan,2024
+Central,Rabies,25,Apr,2024
+Central,Ringworm,78,Mar,2023
+West,Tick Fever,68,Jan,2024
+South,Ringworm,9,Aug,2024
+North,Leptospirosis,104,Jul,2023
+West,Parvovirus,74,Feb,2024
+East,Parvovirus,94,Jul,2023
+West,Distemper,8,Jul,2023
+West,Distemper,107,May,2023
+South,Tick Fever,43,May,2024
+East,Leptospirosis,118,Mar,2023
+West,Rabies,39,May,2023
+North,Ringworm,5,May,2024
+North,Tick Fever,28,Jan,2023
+Central,Distemper,61,Aug,2024
+East,Ringworm,104,Apr,2024
+East,Distemper,74,Mar,2024
+Central,Ringworm,45,Jan,2024
+West,Rabies,58,Apr,2023
+East,Tick Fever,50,Jul,2023
+North,Ringworm,64,Jan,2023
+North,Leptospirosis,112,Jun,2023
+South,Parvovirus,64,Jan,2023
+East,Leptospirosis,61,May,2024
+West,Leptospirosis,35,Apr,2023
+Central,Parvovirus,88,Mar,2023
+Central,Leptospirosis,28,Mar,2023
+West,Ringworm,93,Apr,2024
+South,Ringworm,40,May,2024
+Central,Ringworm,89,Feb,2023
+East,Parvovirus,34,Jan,2024
+South,Leptospirosis,28,May,2023
+East,Parvovirus,112,Jun,2023
+North,Ringworm,110,Aug,2024
+South,Leptospirosis,34,Jul,2024
+Central,Leptospirosis,90,Apr,2023
+South,Distemper,96,Aug,2023
+South,Distemper,11,Jan,2024
+South,Rabies,39,Mar,2023
+South,Tick Fever,59,Jul,2024
+East,Distemper,96,Aug,2023
+North,Parvovirus,18,Feb,2024
+West,Distemper,14,Aug,2023
+South,Rabies,84,Jun,2023
+Central,Leptospirosis,20,Mar,2024
+South,Rabies,58,Apr,2023
+Central,Leptospirosis,99,Jan,2023
+East,Leptospirosis,110,Apr,2024
+Central,Tick Fever,93,Jul,2023
+West,Distemper,81,Jan,2023
+North,Parvovirus,74,May,2023
+Central,Parvovirus,48,Feb,2024
+Central,Ringworm,77,May,2024
+North,Leptospirosis,49,May,2024
+West,Parvovirus,104,Apr,2023
+South,Tick Fever,60,Jul,2023
+Central,Leptospirosis,111,Feb,2023
+North,Tick Fever,88,Aug,2023
+East,Parvovirus,86,Jan,2024
+North,Parvovirus,111,Jan,2023
+East,Ringworm,61,Jun,2023
+West,Parvovirus,25,Mar,2023
+South,Leptospirosis,72,Jun,2024
+North,Leptospirosis,54,Aug,2023
+Central,Leptospirosis,37,Jun,2023
+West,Ringworm,95,Jan,2023
+North,Ringworm,11,Apr,2023
+Central,Parvovirus,74,May,2023
+North,Rabies,19,Jul,2024
+East,Rabies,86,May,2023
+North,Ringworm,36,May,2023
+North,Parvovirus,79,Feb,2023
+North,Rabies,24,Jan,2023
+West,Parvovirus,92,Aug,2023
+North,Parvovirus,19,Aug,2023
+Central,Parvovirus,52,Jul,2023
+East,Distemper,75,Apr,2023
+East,Leptospirosis,25,Feb,2023
+North,Parvovirus,46,Mar,2023
+West,Distemper,30,Apr,2024
+West,Ringworm,112,Jun,2024
+Central,Rabies,18,Apr,2024
+North,Leptospirosis,61,Apr,2024
+East,Rabies,41,May,2023
+West,Leptospirosis,62,Apr,2024
+North,Rabies,25,Aug,2024
+West,Leptospirosis,86,Jun,2023
+West,Rabies,73,Jun,2024
+East,Rabies,7,Jan,2024
+South,Rabies,91,Apr,2023
+Central,Rabies,94,May,2023
+Central,Ringworm,41,Apr,2023
+East,Parvovirus,92,Mar,2024
+West,Tick Fever,53,Mar,2024
+North,Distemper,23,May,2023
+West,Tick Fever,119,Jan,2023
+East,Tick Fever,93,Jan,2024
+Central,Leptospirosis,89,Jun,2023
+West,Parvovirus,16,Jun,2024
+Central,Leptospirosis,65,Feb,2023
+North,Parvovirus,45,May,2023
+Central,Parvovirus,37,Apr,2024
+Central,Rabies,54,Jul,2023
+South,Ringworm,72,May,2023
+South,Rabies,110,Feb,2023
+South,Ringworm,75,Jun,2024
+Central,Leptospirosis,90,May,2023
+East,Ringworm,37,May,2023
+Central,Leptospirosis,85,Jun,2023
+East,Tick Fever,28,Aug,2023
+East,Tick Fever,65,Feb,2023
+South,Ringworm,65,Jun,2023
+West,Ringworm,102,Jan,2024
+North,Leptospirosis,32,Apr,2024
+South,Rabies,62,Jun,2023
+South,Leptospirosis,47,Feb,2024
+West,Rabies,45,Mar,2024
+North,Tick Fever,43,Jan,2023
+Central,Parvovirus,90,Mar,2024
+Central,Ringworm,53,Jul,2024
+South,Rabies,21,Jun,2024
+North,Leptospirosis,102,Jan,2024
+South,Tick Fever,74,Apr,2024
+East,Rabies,114,Jun,2024
+South,Leptospirosis,74,Apr,2024
+South,Ringworm,102,Aug,2024
+Central,Ringworm,69,May,2023
+Central,Distemper,78,Mar,2023
+Central,Parvovirus,89,Jan,2024
+East,Distemper,9,Apr,2024
+Central,Tick Fever,6,Feb,2023
+North,Rabies,26,Apr,2024
+West,Tick Fever,116,Feb,2024
+North,Leptospirosis,61,Jun,2023
+North,Ringworm,70,Jan,2023
+Central,Distemper,78,Apr,2023
+West,Distemper,102,Jul,2024
+West,Distemper,20,Apr,2024
+West,Tick Fever,116,Aug,2023
+East,Ringworm,55,Jul,2023
+Central,Rabies,43,Jan,2024
+West,Leptospirosis,90,Aug,2023
+East,Rabies,80,Apr,2024
+South,Tick Fever,92,Feb,2024
+South,Leptospirosis,115,Apr,2023
+East,Distemper,44,Mar,2023
+East,Parvovirus,42,Jun,2024
+Central,Tick Fever,64,May,2023
+Central,Tick Fever,63,Feb,2023
+South,Ringworm,14,Mar,2023
+West,Rabies,103,Jul,2023
+South,Tick Fever,68,Jun,2024
+West,Tick Fever,119,Jan,2024
+West,Distemper,67,Feb,2024
+Central,Distemper,53,May,2024
+North,Leptospirosis,68,Jun,2023
+North,Parvovirus,36,Jul,2023
+East,Ringworm,11,Aug,2024
+Central,Parvovirus,25,Aug,2024
+West,Leptospirosis,24,May,2023
+North,Distemper,30,Jan,2024
+West,Rabies,72,Jan,2024
+North,Distemper,114,Jul,2023
+North,Ringworm,90,Feb,2024
+North,Distemper,19,Jul,2023
+Central,Ringworm,108,Apr,2023
+South,Ringworm,89,Jan,2024
+West,Ringworm,83,Jun,2023
+Central,Leptospirosis,90,Apr,2024
+Central,Ringworm,96,Aug,2023
+Central,Ringworm,18,Aug,2024
+Central,Rabies,31,Mar,2024
+Central,Parvovirus,109,May,2024
+East,Tick Fever,44,Apr,2023
+West,Parvovirus,62,May,2023
+Central,Ringworm,32,Jul,2024
+West,Rabies,30,Apr,2023
+East,Distemper,117,Jul,2024
+East,Rabies,67,Mar,2024
+West,Ringworm,70,Jan,2023
+North,Rabies,29,Aug,2024
+South,Rabies,7,Mar,2023
+North,Ringworm,76,Aug,2024
+North,Leptospirosis,48,Jan,2023
+North,Rabies,101,Jul,2024
+Central,Tick Fever,46,Jan,2024
+East,Tick Fever,103,Aug,2023
+North,Rabies,10,Aug,2024
+East,Leptospirosis,43,May,2024
+West,Distemper,56,Jun,2023
+South,Ringworm,27,Mar,2024
+West,Tick Fever,93,Apr,2023
+West,Distemper,54,Aug,2024
+Central,Rabies,47,Mar,2023
+South,Distemper,23,May,2024
+West,Parvovirus,73,Jan,2024
+West,Tick Fever,55,May,2024
+South,Rabies,15,Feb,2023
+South,Ringworm,16,Feb,2023
+West,Leptospirosis,78,Apr,2023
+South,Rabies,12,May,2023
+West,Ringworm,28,Jul,2024
+West,Leptospirosis,96,Apr,2024
+Central,Leptospirosis,45,Jul,2023
+North,Rabies,40,Apr,2023
+West,Distemper,105,Feb,2023
+East,Distemper,89,Apr,2024
+North,Leptospirosis,76,Feb,2023
+North,Distemper,59,Aug,2023
+North,Parvovirus,13,Jan,2024
+Central,Leptospirosis,51,Jul,2024
+West,Leptospirosis,19,May,2023
+Central,Ringworm,52,Aug,2024
+West,Distemper,114,Aug,2023
+Central,Leptospirosis,108,Apr,2024
+Central,Parvovirus,86,Feb,2023
+East,Ringworm,46,Mar,2023
+Central,Rabies,64,Jul,2023
+South,Leptospirosis,88,Aug,2023
+East,Parvovirus,74,Apr,2024
+Central,Tick Fever,16,Jun,2024
+North,Parvovirus,6,Jan,2024
+South,Parvovirus,11,Jan,2024
+South,Ringworm,84,Mar,2023
+South,Rabies,7,Feb,2023
+East,Tick Fever,113,Apr,2024
+Central,Distemper,7,Jul,2024
+Central,Distemper,31,Feb,2024
+North,Parvovirus,118,Jan,2024
+North,Ringworm,111,Feb,2024
+South,Ringworm,44,Jan,2023
+North,Distemper,106,Feb,2023
+East,Tick Fever,37,Mar,2023
+Central,Rabies,96,May,2024
+South,Tick Fever,5,Mar,2024
+North,Leptospirosis,12,Mar,2024
+East,Leptospirosis,105,May,2024
+East,Rabies,36,May,2023
+North,Distemper,52,Aug,2023
+Central,Rabies,111,Aug,2024
+North,Ringworm,105,Apr,2023
+South,Leptospirosis,8,Jul,2023
+North,Parvovirus,98,Jul,2024
+East,Parvovirus,74,Apr,2024
+North,Distemper,114,Mar,2024
+Central,Ringworm,23,Mar,2024
+West,Tick Fever,36,Jan,2024
+North,Ringworm,13,Jan,2024
+Central,Parvovirus,16,Jul,2023
+Central,Parvovirus,15,Apr,2023
+East,Leptospirosis,50,Jun,2024
+Central,Ringworm,20,Aug,2023
+Central,Ringworm,5,Jun,2024
+Central,Parvovirus,67,Apr,2024
+Central,Tick Fever,113,Jan,2024
+South,Distemper,25,Jul,2024
+South,Distemper,34,Jul,2023
+East,Ringworm,17,Jan,2024
+North,Distemper,38,Jun,2023
+Central,Parvovirus,8,Feb,2024
+North,Parvovirus,32,Feb,2024
+North,Ringworm,106,Jan,2024
+East,Ringworm,99,Feb,2023
+Central,Leptospirosis,63,May,2024
+Central,Ringworm,31,Apr,2024
+West,Tick Fever,73,Apr,2024
+North,Distemper,29,Jan,2023
+North,Ringworm,7,Mar,2023
+South,Rabies,101,Aug,2023
+West,Leptospirosis,72,Jun,2024
+South,Rabies,29,Jan,2023
+South,Parvovirus,24,Feb,2024
+South,Distemper,38,Jun,2023
+East,Ringworm,30,Mar,2023
+East,Rabies,9,Feb,2024
+South,Distemper,103,Jul,2023
+West,Parvovirus,65,Aug,2024
+North,Tick Fever,96,May,2024
+West,Leptospirosis,97,Feb,2023
+Central,Distemper,13,May,2024
+East,Distemper,106,Jun,2024
+North,Tick Fever,54,May,2023
+North,Distemper,10,Jun,2023
+Central,Parvovirus,87,Jun,2024
+Central,Parvovirus,64,Jun,2023
+South,Tick Fever,48,Jun,2024
+East,Leptospirosis,15,Jun,2024
+East,Ringworm,70,Feb,2023
+West,Rabies,51,Jun,2023
+South,Ringworm,112,Feb,2023
+South,Distemper,112,Jun,2023
+South,Rabies,77,May,2024
+South,Tick Fever,89,Jul,2024
+East,Tick Fever,92,Jun,2023
+East,Leptospirosis,102,Mar,2023
+South,Rabies,90,Jun,2024
+West,Parvovirus,7,Jun,2024
+North,Rabies,80,May,2024
+North,Distemper,96,Aug,2024
+West,Parvovirus,34,Apr,2023
+South,Tick Fever,94,May,2024
+East,Rabies,116,Mar,2024
+North,Ringworm,25,Apr,2023
+Central,Leptospirosis,32,Jan,2024
+Central,Ringworm,94,Jan,2024
+West,Leptospirosis,66,Aug,2023
+South,Distemper,37,Mar,2023
+North,Ringworm,89,May,2023
+South,Rabies,39,Feb,2024
+North,Rabies,56,Mar,2024
+West,Ringworm,38,Jul,2023
+West,Rabies,45,Apr,2023
+Central,Distemper,55,Apr,2024
+South,Parvovirus,51,Jun,2023
+Central,Distemper,86,Jan,2023
+South,Leptospirosis,62,Aug,2023
+Central,Distemper,79,Apr,2024
+East,Leptospirosis,61,Mar,2024
+East,Rabies,27,Apr,2024
+East,Parvovirus,52,Aug,2024
+East,Rabies,26,Aug,2024
+North,Tick Fever,21,Aug,2024
+East,Rabies,73,Mar,2023
+West,Leptospirosis,112,Feb,2024
+West,Rabies,15,Jun,2024
+North,Rabies,98,Jan,2023
+East,Parvovirus,19,Apr,2024
+East,Rabies,95,Mar,2024
+East,Parvovirus,39,May,2023
+Central,Ringworm,37,Jan,2023
+South,Tick Fever,88,Feb,2023
+Central,Parvovirus,20,Mar,2024
+South,Leptospirosis,38,Jul,2023
+East,Ringworm,70,Jul,2024
+East,Parvovirus,103,Jun,2024
+Central,Parvovirus,44,Jun,2024
+Central,Tick Fever,32,Feb,2024
+South,Leptospirosis,51,Feb,2023
+West,Distemper,43,Jun,2023
+South,Distemper,74,Apr,2024
+Central,Parvovirus,77,Apr,2023
+Central,Rabies,24,Mar,2024
+North,Leptospirosis,5,May,2024
+Central,Ringworm,76,Mar,2024
+North,Rabies,91,May,2023
+West,Rabies,67,Feb,2024
+South,Leptospirosis,71,Jan,2024
+South,Parvovirus,8,Mar,2023
+North,Parvovirus,62,Mar,2023
+South,Parvovirus,29,May,2023
+Central,Parvovirus,51,Aug,2023
+East,Distemper,42,Feb,2024
+North,Parvovirus,19,Feb,2023
+South,Distemper,67,Jul,2024
+North,Distemper,25,Aug,2023
+North,Parvovirus,103,May,2023
+East,Tick Fever,61,Feb,2023
+Central,Ringworm,57,Aug,2023
+North,Rabies,50,Jun,2023
+South,Distemper,18,Aug,2023
+West,Leptospirosis,104,Apr,2024
+North,Leptospirosis,80,Jul,2023
+North,Ringworm,21,Jun,2023
+East,Leptospirosis,43,Jan,2023
+Central,Tick Fever,13,Mar,2023
+West,Leptospirosis,103,Jul,2024
+South,Rabies,81,Jan,2023
+West,Rabies,83,Mar,2023
+South,Distemper,86,Apr,2023
+Central,Parvovirus,119,Aug,2023
+South,Tick Fever,101,Feb,2024
+East,Distemper,10,Jun,2023
+East,Tick Fever,95,May,2024
+East,Parvovirus,27,Jun,2023
+East,Leptospirosis,63,Apr,2024
+West,Leptospirosis,95,Jan,2024
+Central,Parvovirus,102,May,2023
+South,Distemper,50,Feb,2023
+South,Parvovirus,42,Apr,2024
+East,Ringworm,18,May,2024
+East,Rabies,104,Apr,2023
+North,Distemper,76,Aug,2024
+Central,Tick Fever,66,Apr,2024
+West,Ringworm,39,Feb,2024
+South,Distemper,23,Jul,2023
+North,Parvovirus,34,Mar,2024
+North,Parvovirus,82,May,2024
+South,Parvovirus,88,Aug,2024
+West,Parvovirus,117,Feb,2023
+North,Tick Fever,29,Apr,2023
+North,Ringworm,44,Aug,2024
+Central,Leptospirosis,92,Feb,2023
+West,Rabies,18,Jul,2024
+North,Tick Fever,30,Aug,2023
+West,Tick Fever,106,Aug,2023
+South,Leptospirosis,91,Mar,2024
+East,Leptospirosis,26,Jun,2023
+North,Rabies,52,May,2023
+Central,Rabies,87,Mar,2023
+South,Leptospirosis,114,Jan,2024
+West,Parvovirus,55,May,2023
+South,Tick Fever,7,Mar,2023
+North,Distemper,46,Apr,2024
+West,Rabies,23,May,2023
+East,Rabies,77,May,2023
+South,Leptospirosis,32,Feb,2023
+North,Ringworm,88,Apr,2023
+Central,Distemper,49,Jan,2023
+West,Distemper,75,Jun,2024
+South,Rabies,82,Aug,2024
+South,Parvovirus,67,Jul,2023
+East,Ringworm,77,Mar,2023
+East,Distemper,23,Feb,2023
+Central,Rabies,51,Mar,2024
+Central,Distemper,18,Jan,2024
+North,Ringworm,42,Aug,2023
+North,Ringworm,57,Jan,2023
+Central,Tick Fever,65,May,2024
+Central,Leptospirosis,40,Jul,2023
+West,Leptospirosis,44,Jan,2024
+East,Rabies,85,Mar,2024
+North,Ringworm,34,Apr,2023
+East,Tick Fever,13,Apr,2024
+East,Tick Fever,68,May,2023
+Central,Distemper,37,Jun,2023
+West,Distemper,56,Mar,2023
+South,Tick Fever,93,Mar,2023
+West,Distemper,18,Jan,2023
+West,Ringworm,79,Jul,2023
+East,Parvovirus,57,Mar,2024
+West,Ringworm,103,Feb,2024
+North,Tick Fever,109,Jun,2024
+East,Tick Fever,63,Jan,2024
+North,Ringworm,82,Feb,2023
+South,Distemper,98,May,2024
+East,Distemper,45,Apr,2024
+South,Leptospirosis,72,May,2024
+East,Tick Fever,72,Apr,2023
+Central,Rabies,96,May,2024
+West,Leptospirosis,12,Mar,2023
+Central,Distemper,6,Feb,2024
+South,Ringworm,109,Apr,2023
+West,Distemper,114,Jan,2023
+East,Ringworm,90,Feb,2024
+West,Leptospirosis,45,Jan,2023
+North,Tick Fever,59,Feb,2023
+West,Distemper,20,Feb,2024
+North,Ringworm,97,May,2024
+West,Tick Fever,66,Apr,2024
+North,Rabies,117,Apr,2023
+South,Ringworm,52,Jul,2023
+Central,Leptospirosis,34,Feb,2023
+East,Rabies,16,Mar,2024
+West,Rabies,39,Mar,2023
+Central,Parvovirus,15,Jan,2023
+East,Distemper,68,Jan,2023
+East,Ringworm,114,May,2023
+North,Rabies,54,Feb,2023
+South,Parvovirus,89,Jan,2023
+South,Leptospirosis,25,Jan,2023
+Central,Tick Fever,73,Jun,2024
+South,Ringworm,52,Feb,2024
+West,Rabies,24,Aug,2024
+South,Distemper,105,May,2023
+Central,Parvovirus,71,Jan,2023
+South,Rabies,48,May,2024
+West,Distemper,37,Apr,2023
+North,Rabies,77,May,2024
+Central,Ringworm,65,Aug,2023
+North,Ringworm,13,Mar,2023
+North,Ringworm,72,Aug,2024
+North,Leptospirosis,39,Mar,2024
+East,Leptospirosis,85,May,2024
+East,Parvovirus,102,Mar,2024
+North,Ringworm,92,Apr,2024
+Central,Distemper,100,Feb,2023
+West,Rabies,69,Mar,2023
+West,Tick Fever,12,Mar,2023
+South,Distemper,49,May,2024
+Central,Leptospirosis,91,Apr,2024
+East,Leptospirosis,51,Jul,2024
+North,Distemper,44,Jul,2024
+South,Leptospirosis,80,Jul,2024
+West,Ringworm,58,Jul,2024
+East,Parvovirus,80,Feb,2023
+East,Rabies,50,Aug,2023
+North,Parvovirus,51,May,2023
+West,Rabies,19,May,2023
+Central,Rabies,109,Jun,2023
+East,Parvovirus,23,Apr,2024
+North,Distemper,30,Jul,2024
+Central,Rabies,56,Feb,2024
+West,Parvovirus,97,Apr,2024
+East,Rabies,26,Jul,2024
+Central,Tick Fever,108,Feb,2024
+Central,Distemper,25,Apr,2023
+Central,Ringworm,55,May,2024
+East,Rabies,42,May,2024
+East,Tick Fever,24,Aug,2024
+South,Ringworm,33,Jan,2024
+West,Ringworm,55,Aug,2023
+North,Rabies,8,Mar,2023
+Central,Parvovirus,59,Aug,2024
+South,Rabies,75,Jul,2023
+North,Tick Fever,96,Jun,2023
+South,Ringworm,32,Apr,2024
+East,Rabies,8,Jun,2024
+Central,Parvovirus,26,Jan,2024
+North,Rabies,80,Mar,2024
+North,Distemper,49,Apr,2024
+North,Parvovirus,71,Feb,2023
+North,Tick Fever,90,Jul,2024
+North,Ringworm,112,Mar,2024
+South,Rabies,70,May,2024
+Central,Parvovirus,92,Jan,2023
+East,Distemper,38,Mar,2024
+East,Parvovirus,95,Jul,2024
+East,Leptospirosis,59,Aug,2024
+East,Distemper,109,Mar,2023
+South,Tick Fever,5,Aug,2024
+West,Ringworm,76,Jul,2024
+Central,Tick Fever,91,May,2024
+North,Rabies,42,Apr,2023
+West,Parvovirus,10,Feb,2024
+East,Leptospirosis,90,May,2024
+West,Distemper,29,Aug,2024
+Central,Distemper,86,Aug,2023
+North,Parvovirus,21,Feb,2024
+North,Leptospirosis,65,Apr,2024
+Central,Parvovirus,16,Mar,2024
+Central,Rabies,10,Feb,2023
+East,Tick Fever,94,Jan,2023
+North,Distemper,31,Jan,2024
+West,Rabies,12,Jul,2023
+South,Tick Fever,87,May,2023
+South,Rabies,110,Aug,2023
+Central,Leptospirosis,69,Apr,2024
+East,Distemper,61,Jul,2024
+South,Parvovirus,97,May,2023
+North,Parvovirus,113,May,2023
+Central,Tick Fever,117,Jul,2023
+West,Ringworm,103,Jun,2024
+Central,Leptospirosis,44,May,2024
+West,Tick Fever,18,Jun,2023
+Central,Ringworm,39,Jan,2023
+Central,Rabies,52,Jan,2023
+Central,Leptospirosis,113,May,2023
+West,Rabies,88,Jan,2024
+West,Distemper,60,Apr,2023
+Central,Leptospirosis,53,Jun,2024
+South,Ringworm,17,Jun,2023
+East,Distemper,65,May,2023
+East,Parvovirus,106,Jan,2023
+East,Ringworm,53,Feb,2023
+West,Tick Fever,50,Aug,2023
+West,Parvovirus,117,Jul,2024
+South,Parvovirus,66,Jul,2023
+East,Tick Fever,12,Jun,2023
+East,Leptospirosis,47,May,2023
+Central,Parvovirus,24,May,2024
+West,Ringworm,101,Apr,2024
+East,Distemper,94,Mar,2024
+South,Parvovirus,43,Aug,2024
+South,Ringworm,89,Mar,2023
+East,Rabies,53,Jun,2023
+West,Ringworm,68,Jul,2023
+South,Distemper,66,Apr,2024
+Central,Ringworm,110,Apr,2023
+South,Tick Fever,111,Apr,2023
+North,Distemper,58,Jun,2024
+North,Leptospirosis,109,Mar,2024
+West,Rabies,13,Jul,2024
+East,Tick Fever,92,Apr,2023
+West,Leptospirosis,41,Jul,2023
+West,Ringworm,53,Jan,2024
+West,Distemper,45,May,2023
+West,Rabies,21,May,2024
+Central,Tick Fever,92,Jul,2024
+Central,Leptospirosis,25,Feb,2023
+South,Leptospirosis,55,Feb,2024
+North,Rabies,63,Jun,2024
+West,Ringworm,43,Jun,2024
+South,Rabies,59,May,2023
+North,Leptospirosis,45,Jan,2024
+East,Parvovirus,43,Aug,2024
+Central,Tick Fever,17,Mar,2024
+North,Rabies,68,Mar,2024
+East,Leptospirosis,15,Jun,2024
+North,Ringworm,114,Jan,2024
+Central,Leptospirosis,23,Jun,2024
+Central,Ringworm,15,Aug,2023
+South,Rabies,81,Mar,2023
+West,Ringworm,50,Jul,2024
+North,Distemper,49,Jun,2023
+North,Distemper,5,Apr,2023
+East,Distemper,44,Jul,2024
+Central,Parvovirus,112,Aug,2023
+North,Rabies,23,Aug,2024
+Central,Leptospirosis,80,Jun,2024
+North,Leptospirosis,76,May,2024
+South,Parvovirus,76,Jun,2024
+West,Ringworm,65,May,2024
+North,Parvovirus,113,Aug,2023
+Central,Ringworm,16,Jan,2024
+South,Ringworm,65,Aug,2023
+North,Tick Fever,116,Mar,2024
+East,Leptospirosis,37,Jul,2024
+West,Distemper,49,Jul,2024
+North,Ringworm,94,Feb,2023
+South,Tick Fever,107,Feb,2024
+East,Leptospirosis,96,Aug,2024
+South,Distemper,73,Mar,2024
+South,Ringworm,12,Feb,2024
+East,Ringworm,29,Jul,2023
+South,Parvovirus,95,Jun,2024
+East,Parvovirus,50,Jan,2023
+North,Leptospirosis,91,Jan,2024
+East,Distemper,34,Mar,2023
+East,Ringworm,113,Aug,2023
+West,Leptospirosis,51,Feb,2024
+East,Leptospirosis,91,Jun,2024
+East,Rabies,53,Jan,2023
+North,Parvovirus,51,Jan,2024
+West,Distemper,88,Apr,2024
+Central,Ringworm,86,Aug,2024
+North,Leptospirosis,22,Apr,2023
+North,Ringworm,70,Jul,2024
+Central,Rabies,72,Jan,2024
+East,Distemper,98,Mar,2024
+South,Leptospirosis,37,May,2023
+West,Ringworm,40,May,2024
+South,Parvovirus,86,Jun,2023
+Central,Rabies,105,Jan,2024
+North,Distemper,23,Jan,2023
+North,Rabies,115,Jul,2024
+West,Parvovirus,32,Jan,2024
+North,Distemper,44,Mar,2023
+North,Rabies,88,Apr,2023
+West,Tick Fever,117,Jan,2023
+West,Parvovirus,101,Jan,2024
+Central,Parvovirus,80,Jul,2024
+North,Parvovirus,119,Aug,2024
+North,Tick Fever,19,Feb,2024
+Central,Tick Fever,45,Aug,2023
+East,Ringworm,43,Jul,2024
+East,Leptospirosis,6,Aug,2024
+East,Rabies,67,Jul,2024
+Central,Ringworm,33,Mar,2024
+North,Rabies,109,Jun,2024
+Central,Leptospirosis,78,Jan,2024
+Central,Tick Fever,70,Jul,2024
+East,Leptospirosis,55,Jul,2023
+South,Tick Fever,79,Feb,2024
+North,Leptospirosis,81,Jul,2024
+East,Ringworm,14,May,2024
+South,Distemper,18,Jun,2024
+South,Ringworm,86,Jan,2023
+West,Rabies,55,Jan,2023
+North,Ringworm,77,Feb,2023
+South,Parvovirus,43,Mar,2023
+East,Rabies,32,Jan,2023
+West,Leptospirosis,7,May,2023
+North,Rabies,88,Jan,2024
+Central,Distemper,74,May,2023
+East,Tick Fever,31,Jun,2023
+South,Leptospirosis,6,Jun,2024
+South,Rabies,97,Apr,2023
+East,Leptospirosis,42,Apr,2024
+South,Leptospirosis,7,May,2024
+West,Leptospirosis,20,Mar,2023
+North,Tick Fever,98,Jan,2024
+West,Ringworm,44,Jul,2023
+South,Leptospirosis,6,Jan,2023
+Central,Parvovirus,85,Apr,2024
+North,Distemper,45,Aug,2024
+North,Tick Fever,16,Jul,2023
+East,Rabies,39,May,2024
+East,Tick Fever,111,Jul,2024
+Central,Rabies,69,Aug,2023
+North,Tick Fever,59,Jan,2023
+Central,Rabies,49,Jan,2024
+East,Leptospirosis,83,Mar,2023
+East,Ringworm,94,Feb,2023
+North,Rabies,105,Jul,2023
+West,Rabies,89,Apr,2023
+South,Parvovirus,66,Aug,2023
+East,Rabies,53,Aug,2023
+East,Parvovirus,99,Aug,2023
+West,Distemper,29,Apr,2024
+West,Leptospirosis,27,Feb,2023
+Central,Parvovirus,28,Jan,2024
+Central,Ringworm,42,Mar,2024
+South,Leptospirosis,32,Mar,2024
+South,Parvovirus,25,Apr,2023
+North,Leptospirosis,58,Mar,2023
+Central,Leptospirosis,111,Aug,2024
+East,Leptospirosis,22,Jun,2023
+Central,Distemper,40,Feb,2024
+East,Ringworm,103,Jan,2023
+West,Tick Fever,49,Jun,2023
+Central,Tick Fever,77,Feb,2024
+West,Parvovirus,57,May,2024
+South,Leptospirosis,106,Jul,2024
+South,Parvovirus,34,Apr,2023
+North,Distemper,64,Aug,2024
+Central,Distemper,112,Mar,2023
+West,Rabies,102,May,2023
+East,Distemper,36,Mar,2023
+South,Rabies,71,Jun,2024
+South,Ringworm,71,Jan,2024
+East,Parvovirus,32,Jan,2024
+West,Ringworm,48,Jan,2023
+West,Distemper,83,Aug,2023
+Central,Ringworm,45,Mar,2024
+Central,Ringworm,67,May,2023
+North,Ringworm,27,Jan,2023
+South,Distemper,108,May,2024
+Central,Leptospirosis,79,Mar,2024
+West,Ringworm,52,Aug,2024
+East,Rabies,36,Jun,2023
+West,Distemper,61,Aug,2023
+South,Ringworm,104,May,2023
+West,Leptospirosis,37,Aug,2023
+North,Distemper,28,Aug,2023
+South,Tick Fever,43,Jun,2024
+East,Leptospirosis,38,Mar,2023
+North,Rabies,60,Mar,2023
+South,Ringworm,32,Apr,2023
+East,Tick Fever,41,Aug,2024
+North,Tick Fever,11,Mar,2024
+North,Distemper,72,Mar,2024
+South,Tick Fever,41,Feb,2023
+Central,Rabies,60,Jan,2024
+North,Rabies,69,Apr,2024
+North,Parvovirus,69,Jul,2024
+East,Rabies,51,Apr,2023
+West,Leptospirosis,24,Apr,2024
+South,Tick Fever,23,Jul,2023
+South,Rabies,33,Feb,2023
+Central,Distemper,78,Aug,2024
+Central,Parvovirus,64,Jun,2023
+South,Tick Fever,22,Mar,2024
+Central,Parvovirus,96,Jan,2023
+East,Tick Fever,39,May,2024
+South,Distemper,47,Aug,2024
+Central,Parvovirus,115,Jul,2024
+South,Ringworm,99,Jun,2023
+West,Leptospirosis,95,Aug,2024
+North,Leptospirosis,15,Jul,2023
+South,Tick Fever,53,Mar,2024
+North,Ringworm,117,Feb,2023
+Central,Parvovirus,42,Aug,2023
+North,Ringworm,68,Jul,2024
+South,Ringworm,73,Mar,2024
+West,Parvovirus,12,Mar,2024
+Central,Distemper,38,Feb,2024
+South,Ringworm,52,Apr,2024
+Central,Ringworm,60,Aug,2023
+East,Distemper,80,Aug,2024
+North,Ringworm,106,Apr,2024
+East,Ringworm,69,Jan,2023
+South,Ringworm,35,Jan,2024
+West,Leptospirosis,8,Apr,2024
+Central,Rabies,117,Jun,2023
+North,Distemper,113,May,2024
+Central,Ringworm,54,Mar,2024
+South,Leptospirosis,73,May,2024
+Central,Distemper,34,Mar,2023
+North,Tick Fever,92,Apr,2024
+South,Tick Fever,63,Jan,2023
+Central,Ringworm,71,Jun,2024
+West,Leptospirosis,79,Jan,2023
+South,Leptospirosis,49,May,2024

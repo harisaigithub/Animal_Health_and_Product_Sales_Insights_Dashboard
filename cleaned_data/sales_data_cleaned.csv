@@ -1,0 +1,1201 @@
+Region,Product,Units_Sold,Revenue,Month,Year,Category_x,Category_y,Cost_Per_Unit
+North,VetCare Plus,809,415164.1863098071,Apr,2024,Vaccine,Medicine,444
+North,PetGuard,654,168123.81249300114,Jan,2024,Medicine,Supplement,226
+South,VetCare Plus,624,354544.02461088775,Jul,2023,Vaccine,Medicine,444
+East,VetCare Plus,827,444719.2088822908,Jul,2023,Supplement,Medicine,444
+South,PawShield,154,66838.08231341075,Jul,2023,Medicine,Medicine,349
+East,MediPet,876,407028.8862738919,Aug,2023,Medicine,Supplement,312
+West,PetGuard,615,192060.3758062049,Jun,2024,Vaccine,Supplement,226
+North,FurWell,841,429454.5422402549,Feb,2024,Vaccine,Medicine,353
+West,MediPet,514,199194.42066163485,Mar,2024,Supplement,Supplement,312
+East,PetGuard,673,195431.3414808524,Apr,2023,Vaccine,Supplement,226
+East,FurWell,751,378758.2332315947,Jan,2024,Vaccine,Medicine,353
+East,FurryVax,324,70264.02122002325,Apr,2023,Supplement,Vaccine,183
+West,FurryVax,955,202002.49711675005,Mar,2024,Supplement,Vaccine,183
+Central,MediPet,814,301644.9818246628,Jul,2024,Supplement,Supplement,312
+South,CanineCare,143,93117.53834817089,Feb,2023,Vaccine,Antibiotic,482
+West,PetGuard,444,149355.15548930436,Aug,2024,Supplement,Supplement,226
+North,PetGuard,748,205799.04389903604,Jun,2024,Medicine,Supplement,226
+South,CanineCare,53,36995.90695402002,Mar,2024,Medicine,Antibiotic,482
+East,FurWell,206,97411.42091711157,Mar,2024,Medicine,Medicine,353
+West,VetCare Plus,164,81784.75156937631,May,2024,Vaccine,Medicine,444
+Central,PetGuard,137,35648.302609536666,Feb,2024,Vaccine,Supplement,226
+West,HealthyPaws,321,171632.06217045046,Apr,2024,Vaccine,Supplement,386
+West,PawShield,498,206803.33862830352,Feb,2024,Vaccine,Medicine,349
+East,VetCare Plus,652,326657.45859303314,Apr,2023,Medicine,Medicine,444
+North,FurWell,119,54846.96244991977,Jun,2023,Medicine,Medicine,353
+East,CanineCare,269,183316.67412587625,Aug,2023,Vaccine,Antibiotic,482
+West,FurWell,146,65423.95802928027,Jul,2023,Supplement,Medicine,353
+West,VetCare Plus,739,456503.0119139868,Jan,2023,Antibiotic,Medicine,444
+North,FurWell,246,110175.943135976,Aug,2023,Vaccine,Medicine,353
+East,CanineCare,305,164685.7961293811,Aug,2023,Medicine,Antibiotic,482
+Central,VetCare Plus,145,83324.2302626069,Mar,2023,Antibiotic,Medicine,444
+South,FurryVax,974,196219.871579246,Mar,2023,Antibiotic,Vaccine,183
+West,MediPet,998,429274.3504100017,May,2024,Antibiotic,Supplement,312
+Central,CanineCare,208,149129.1704377392,May,2023,Vaccine,Antibiotic,482
+Central,VetCare Plus,815,482602.2017323694,Jan,2024,Medicine,Medicine,444
+Central,HealthyPaws,108,55779.1294070755,Mar,2023,Medicine,Supplement,386
+South,FurryVax,172,39901.80937404477,Jan,2023,Medicine,Vaccine,183
+Central,PawShield,317,133450.5921459525,Jun,2023,Vaccine,Medicine,349
+South,MediPet,518,207404.10920941015,Feb,2024,Medicine,Supplement,312
+Central,PetGuard,125,41620.83097132891,May,2023,Vaccine,Supplement,226
+North,FurWell,428,216578.60909072025,Mar,2024,Antibiotic,Medicine,353
+East,VetCare Plus,733,392425.5852319315,Feb,2024,Vaccine,Medicine,444
+North,HealthyPaws,328,149579.61940766167,Apr,2024,Supplement,Supplement,386
+East,CanineCare,307,211860.18167070596,Feb,2023,Antibiotic,Antibiotic,482
+North,VetCare Plus,391,242436.66024513368,May,2023,Vaccine,Medicine,444
+Central,FurryVax,624,168778.10273264552,Feb,2023,Medicine,Vaccine,183
+South,VetCare Plus,904,461975.0290989552,Mar,2024,Antibiotic,Medicine,444
+East,PawShield,970,464743.0143975118,Jun,2023,Vaccine,Medicine,349
+North,PawShield,848,427899.9140030763,Mar,2024,Vaccine,Medicine,349
+South,FurryVax,75,19501.77091276489,Jun,2023,Antibiotic,Vaccine,183
+South,MediPet,213,95925.06924436144,Jul,2023,Medicine,Supplement,312
+South,FurWell,886,446685.5269759615,Jun,2024,Supplement,Medicine,353
+South,FurWell,74,31645.267664017167,Jul,2023,Supplement,Medicine,353
+North,MediPet,409,146256.2121081028,Jun,2024,Medicine,Supplement,312
+East,HealthyPaws,644,332761.62753994943,Jan,2024,Medicine,Supplement,386
+East,PawShield,496,208051.7938810452,Jul,2023,Vaccine,Medicine,349
+West,VetCare Plus,582,291481.5170342111,Jun,2023,Antibiotic,Medicine,444
+East,PawShield,729,347731.7238221935,May,2023,Supplement,Medicine,349
+East,FurryVax,763,177074.50045535096,Mar,2024,Vaccine,Vaccine,183
+West,HealthyPaws,680,320632.438673583,Jul,2024,Medicine,Supplement,386
+South,FurryVax,854,199550.84710198155,Aug,2024,Antibiotic,Vaccine,183
+South,CanineCare,862,542697.2251550456,Feb,2023,Supplement,Antibiotic,482
+Central,PawShield,145,71991.94611201278,May,2023,Vaccine,Medicine,349
+South,VetCare Plus,97,55220.34541591747,Aug,2023,Medicine,Medicine,444
+Central,FurWell,785,331859.2232517533,Aug,2024,Antibiotic,Medicine,353
+North,PetGuard,847,272133.92675535014,Apr,2024,Vaccine,Supplement,226
+Central,CanineCare,101,56146.68573469092,Feb,2023,Antibiotic,Antibiotic,482
+West,PawShield,823,419030.656746952,Jul,2024,Antibiotic,Medicine,349
+West,CanineCare,315,205076.68607477756,May,2023,Antibiotic,Antibiotic,482
+East,CanineCare,129,76748.73125281603,Apr,2024,Supplement,Antibiotic,482
+Central,PetGuard,191,59464.61503908036,Apr,2023,Antibiotic,Supplement,226
+South,PetGuard,474,135652.15962162658,Jun,2024,Antibiotic,Supplement,226
+South,FurryVax,448,90375.75380662004,Jul,2023,Antibiotic,Vaccine,183
+East,MediPet,821,331791.5828533807,Jul,2024,Vaccine,Supplement,312
+East,FurryVax,547,136893.06731918984,Jul,2023,Supplement,Vaccine,183
+West,HealthyPaws,910,513813.1329088913,Mar,2024,Medicine,Supplement,386
+Central,VetCare Plus,135,70291.13513968606,Mar,2024,Antibiotic,Medicine,444
+East,FurryVax,385,87011.94044581783,Aug,2023,Supplement,Vaccine,183
+West,MediPet,820,329553.3203906984,May,2024,Medicine,Supplement,312
+Central,VetCare Plus,408,253919.5413527165,Feb,2023,Medicine,Medicine,444
+South,FurWell,909,369165.2631018843,Mar,2023,Vaccine,Medicine,353
+North,FurWell,526,249246.1773476854,Jun,2024,Vaccine,Medicine,353
+North,HealthyPaws,368,188969.10947101063,Jan,2023,Supplement,Supplement,386
+West,FurryVax,782,163249.6752868608,Feb,2023,Vaccine,Vaccine,183
+East,PetGuard,865,266767.32275638846,Jun,2023,Antibiotic,Supplement,226
+North,PawShield,62,27554.031743155483,Aug,2024,Medicine,Medicine,349
+East,CanineCare,774,519877.0185910672,Jul,2023,Vaccine,Antibiotic,482
+East,CanineCare,526,365259.8163544085,May,2024,Supplement,Antibiotic,482
+North,MediPet,952,394430.0083443736,Apr,2024,Antibiotic,Supplement,312
+West,PawShield,79,35704.9956743847,Jun,2024,Vaccine,Medicine,349
+East,MediPet,398,162254.68224358145,May,2024,Medicine,Supplement,312
+South,PetGuard,297,92376.23203293182,Aug,2024,Vaccine,Supplement,226
+West,CanineCare,861,493287.3797555604,Feb,2023,Supplement,Antibiotic,482
+South,MediPet,729,288904.7964768703,Aug,2024,Supplement,Supplement,312
+Central,PawShield,410,171788.34081103708,May,2024,Supplement,Medicine,349
+North,FurWell,373,156232.35965927047,Mar,2023,Vaccine,Medicine,353
+West,MediPet,791,300715.7028648527,Feb,2024,Vaccine,Supplement,312
+East,HealthyPaws,359,154954.31709921942,Mar,2023,Supplement,Supplement,386
+North,MediPet,764,345416.1831168523,Aug,2023,Medicine,Supplement,312
+Central,MediPet,530,194090.5506142816,Aug,2024,Supplement,Supplement,312
+North,MediPet,932,366470.1251551152,Feb,2024,Medicine,Supplement,312
+North,VetCare Plus,205,136308.5710116337,May,2023,Medicine,Medicine,444
+North,FurryVax,670,179427.68869618184,Jul,2023,Antibiotic,Vaccine,183
+East,FurryVax,362,89445.74748172634,Feb,2023,Vaccine,Vaccine,183
+East,PetGuard,210,55177.615171572535,Mar,2023,Medicine,Supplement,226
+West,CanineCare,755,433995.6066069133,May,2024,Medicine,Antibiotic,482
+East,CanineCare,122,74684.34870511683,May,2023,Vaccine,Antibiotic,482
+Central,FurWell,713,284047.1281713612,May,2023,Vaccine,Medicine,353
+South,MediPet,659,264716.0209090164,Aug,2024,Medicine,Supplement,312
+East,FurryVax,328,80385.02104094208,Aug,2024,Medicine,Vaccine,183
+West,PawShield,668,277793.0427544244,Jan,2024,Medicine,Medicine,349
+Central,VetCare Plus,833,476443.4681925053,Jan,2024,Vaccine,Medicine,444
+West,MediPet,235,94436.4648633972,Aug,2024,Medicine,Supplement,312
+West,PawShield,378,166836.21741399413,Mar,2023,Supplement,Medicine,349
+West,MediPet,728,257850.21963676863,Jan,2024,Antibiotic,Supplement,312
+East,PawShield,168,74187.01262844233,Jan,2024,Antibiotic,Medicine,349
+South,PawShield,687,283261.5935606307,Aug,2024,Medicine,Medicine,349
+Central,HealthyPaws,999,442904.8390839173,Aug,2024,Antibiotic,Supplement,386
+Central,FurWell,776,361831.6495917084,May,2023,Medicine,Medicine,353
+North,FurWell,911,437058.269939259,Aug,2023,Medicine,Medicine,353
+South,CanineCare,783,541158.5301617272,May,2024,Antibiotic,Antibiotic,482
+West,FurWell,517,268047.843692264,Jul,2023,Vaccine,Medicine,353
+Central,HealthyPaws,934,445589.67285941535,May,2023,Antibiotic,Supplement,386
+Central,MediPet,890,398468.1256757404,May,2023,Supplement,Supplement,312
+Central,CanineCare,936,558548.5426170735,Aug,2023,Antibiotic,Antibiotic,482
+Central,FurryVax,516,125468.2830949401,Apr,2024,Vaccine,Vaccine,183
+South,FurryVax,94,21578.730680139957,Aug,2024,Antibiotic,Vaccine,183
+South,CanineCare,87,60790.71965823735,Jun,2023,Medicine,Antibiotic,482
+West,PetGuard,588,167969.29552834196,Jan,2024,Vaccine,Supplement,226
+South,PetGuard,530,162892.97369837813,Jun,2024,Antibiotic,Supplement,226
+East,FurryVax,374,81713.45799135543,Jan,2024,Medicine,Vaccine,183
+East,FurWell,814,403470.6593297432,Jul,2023,Medicine,Medicine,353
+North,CanineCare,220,130402.67586619571,Jan,2024,Medicine,Antibiotic,482
+North,MediPet,417,155822.82508674523,Jul,2024,Vaccine,Supplement,312
+West,HealthyPaws,224,116543.45492208762,Feb,2023,Antibiotic,Supplement,386
+South,CanineCare,984,642737.0046517682,Apr,2023,Antibiotic,Antibiotic,482
+West,MediPet,732,313124.59380779945,Aug,2023,Supplement,Supplement,312
+South,PetGuard,502,156124.17944625064,May,2024,Antibiotic,Supplement,226
+West,MediPet,253,94319.22771494204,Aug,2024,Medicine,Supplement,312
+Central,PawShield,638,332028.6299299414,May,2024,Medicine,Medicine,349
+West,MediPet,58,25520.723506761115,Aug,2023,Supplement,Supplement,312
+South,PawShield,274,129219.34126526534,May,2023,Vaccine,Medicine,349
+North,MediPet,857,372450.9136762661,Jan,2024,Supplement,Supplement,312
+North,MediPet,384,138122.32041937867,Mar,2024,Vaccine,Supplement,312
+Central,PawShield,593,303320.2317109714,Mar,2024,Supplement,Medicine,349
+West,MediPet,814,377182.4335213292,Feb,2024,Antibiotic,Supplement,312
+South,FurWell,930,464948.1933872249,Jun,2024,Medicine,Medicine,353
+North,MediPet,599,255874.22025264884,Aug,2023,Supplement,Supplement,312
+East,FurryVax,892,210344.3992087273,Feb,2024,Vaccine,Vaccine,183
+Central,PawShield,987,504209.4576383148,Feb,2023,Antibiotic,Medicine,349
+East,FurryVax,169,37784.93340015127,Jan,2023,Medicine,Vaccine,183
+West,PetGuard,149,43151.79994779063,Mar,2023,Antibiotic,Supplement,226
+Central,FurryVax,651,170774.44323693626,Jul,2023,Medicine,Vaccine,183
+Central,FurryVax,336,78541.89567828017,Jun,2023,Vaccine,Vaccine,183
+South,PawShield,151,66361.52441319429,Jun,2024,Medicine,Medicine,349
+South,PetGuard,918,281468.05696317647,Feb,2024,Vaccine,Supplement,226
+Central,VetCare Plus,101,63444.89836613516,Apr,2024,Vaccine,Medicine,444
+South,PetGuard,899,250193.303483616,Apr,2023,Vaccine,Supplement,226
+South,VetCare Plus,333,209861.94633625672,Mar,2023,Supplement,Medicine,444
+North,VetCare Plus,184,109108.3713279332,Jun,2023,Vaccine,Medicine,444
+North,HealthyPaws,321,162370.66130345414,Mar,2023,Antibiotic,Supplement,386
+North,CanineCare,509,319316.11058986955,Feb,2024,Antibiotic,Antibiotic,482
+Central,VetCare Plus,794,396366.8583425933,Aug,2024,Medicine,Medicine,444
+West,FurryVax,486,100446.24691153465,Aug,2023,Antibiotic,Vaccine,183
+North,PawShield,672,283780.38093773107,Feb,2023,Vaccine,Medicine,349
+Central,PawShield,440,175007.9378301735,Aug,2024,Antibiotic,Medicine,349
+North,FurWell,490,213717.00084396813,Apr,2024,Antibiotic,Medicine,353
+West,FurryVax,475,106483.94456860276,Jun,2023,Antibiotic,Vaccine,183
+East,PawShield,206,103003.16326000448,Feb,2024,Medicine,Medicine,349
+North,FurryVax,148,36145.9281203664,Mar,2024,Medicine,Vaccine,183
+Central,PawShield,736,372309.7136246384,Jul,2023,Supplement,Medicine,349
+West,VetCare Plus,344,203317.1851299172,Jun,2024,Medicine,Medicine,444
+South,HealthyPaws,722,345590.7877109969,Apr,2024,Medicine,Supplement,386
+Central,PawShield,167,83814.57130708029,Apr,2024,Antibiotic,Medicine,349
+Central,VetCare Plus,673,361355.7885568107,Jan,2024,Vaccine,Medicine,444
+East,PawShield,409,189349.99575493345,Mar,2023,Vaccine,Medicine,349
+West,PetGuard,195,55108.55498374109,Feb,2023,Vaccine,Supplement,226
+West,PawShield,211,103885.05928749236,May,2024,Supplement,Medicine,349
+Central,PetGuard,954,302228.15731314535,Mar,2023,Vaccine,Supplement,226
+North,PetGuard,328,99541.33211183504,Jul,2024,Antibiotic,Supplement,226
+West,MediPet,270,96400.54176408256,Jun,2023,Antibiotic,Supplement,312
+Central,CanineCare,589,357173.5950489943,Jan,2024,Vaccine,Antibiotic,482
+Central,VetCare Plus,57,35606.83273485046,May,2023,Vaccine,Medicine,444
+East,MediPet,385,168024.5346025535,Jan,2023,Antibiotic,Supplement,312
+South,HealthyPaws,439,213313.51950436065,Jun,2023,Medicine,Supplement,386
+North,FurryVax,69,16797.74436904959,Feb,2024,Supplement,Vaccine,183
+Central,FurryVax,776,179215.931144672,May,2024,Medicine,Vaccine,183
+East,HealthyPaws,870,428064.6199258409,Jun,2024,Medicine,Supplement,386
+North,FurWell,496,253564.1515931289,Feb,2024,Antibiotic,Medicine,353
+East,FurWell,391,181119.5676710013,Feb,2023,Medicine,Medicine,353
+South,PawShield,409,165376.53766447055,Apr,2023,Medicine,Medicine,349
+South,HealthyPaws,666,380605.35133265465,Feb,2023,Vaccine,Supplement,386
+West,CanineCare,822,459748.3705046171,Jun,2024,Supplement,Antibiotic,482
+North,CanineCare,502,300223.33918161766,May,2024,Medicine,Antibiotic,482
+North,MediPet,522,203172.0321613236,Jan,2024,Medicine,Supplement,312
+East,PetGuard,710,213753.86268527983,Jul,2023,Antibiotic,Supplement,226
+North,CanineCare,980,614326.3434850596,Jun,2023,Antibiotic,Antibiotic,482
+North,CanineCare,155,83350.72329938093,Feb,2024,Vaccine,Antibiotic,482
+West,CanineCare,586,414406.4327838655,Jun,2023,Supplement,Antibiotic,482
+West,FurryVax,843,173763.1623391511,Jan,2024,Supplement,Vaccine,183
+North,FurryVax,340,70470.42146360294,Mar,2024,Supplement,Vaccine,183
+South,PawShield,367,156752.1707543594,Mar,2024,Medicine,Medicine,349
+West,PawShield,882,401208.5635654783,Feb,2023,Antibiotic,Medicine,349
+North,PawShield,366,188927.1833940929,Apr,2023,Supplement,Medicine,349
+West,FurWell,281,120848.50237577075,Mar,2023,Medicine,Medicine,353
+North,VetCare Plus,727,374983.1761285289,Mar,2024,Antibiotic,Medicine,444
+South,HealthyPaws,788,378908.0896789311,Jan,2024,Antibiotic,Supplement,386
+South,CanineCare,675,427381.21102173167,Aug,2024,Vaccine,Antibiotic,482
+East,CanineCare,975,603731.6023473372,Jun,2023,Antibiotic,Antibiotic,482
+East,FurryVax,564,146613.0268172518,Mar,2024,Vaccine,Vaccine,183
+South,MediPet,103,44494.23272027848,Jun,2024,Medicine,Supplement,312
+Central,PetGuard,341,98623.4940149317,Mar,2023,Supplement,Supplement,226
+Central,HealthyPaws,900,495629.08443368034,Feb,2024,Vaccine,Supplement,386
+East,VetCare Plus,474,251349.96412520105,Jul,2023,Supplement,Medicine,444
+North,PawShield,279,139792.67372041187,Jun,2023,Medicine,Medicine,349
+East,HealthyPaws,190,101093.96785686506,May,2023,Antibiotic,Supplement,386
+South,CanineCare,509,294986.94590195507,Feb,2023,Medicine,Antibiotic,482
+South,FurryVax,163,34265.74571509456,Apr,2024,Supplement,Vaccine,183
+South,FurryVax,704,184832.06096841063,Feb,2024,Medicine,Vaccine,183
+West,VetCare Plus,697,393549.080708361,Mar,2023,Supplement,Medicine,444
+Central,PawShield,296,135265.619498556,Mar,2024,Medicine,Medicine,349
+East,PetGuard,588,148490.88107662508,Jul,2023,Antibiotic,Supplement,226
+West,PawShield,309,133498.63826609333,Jun,2023,Medicine,Medicine,349
+North,PawShield,186,92528.64579948316,Jun,2023,Supplement,Medicine,349
+South,CanineCare,762,413282.7270573375,Mar,2024,Vaccine,Antibiotic,482
+West,VetCare Plus,350,226000.73037002145,Jan,2023,Vaccine,Medicine,444
+East,MediPet,577,200663.44711006412,Aug,2024,Supplement,Supplement,312
+South,MediPet,415,148874.8096269931,Jun,2023,Supplement,Supplement,312
+East,FurryVax,960,217072.78195149827,Aug,2024,Antibiotic,Vaccine,183
+South,CanineCare,758,518973.304248305,Jun,2024,Supplement,Antibiotic,482
+West,PetGuard,490,126358.67692311654,May,2023,Supplement,Supplement,226
+East,MediPet,363,155829.6012581208,Jul,2024,Vaccine,Supplement,312
+East,CanineCare,93,60774.540524854376,Jul,2024,Supplement,Antibiotic,482
+North,PetGuard,737,246697.6029692496,Jun,2024,Vaccine,Supplement,226
+South,CanineCare,85,57825.30994103051,Feb,2023,Vaccine,Antibiotic,482
+East,PawShield,442,228229.24799097847,Mar,2023,Antibiotic,Medicine,349
+East,CanineCare,831,504367.94113355456,Mar,2023,Supplement,Antibiotic,482
+East,FurWell,166,76593.33503122535,Mar,2023,Antibiotic,Medicine,353
+Central,PetGuard,318,107697.50715213534,Aug,2024,Vaccine,Supplement,226
+East,CanineCare,254,156807.87274768943,Mar,2023,Medicine,Antibiotic,482
+West,PetGuard,879,262223.0533347443,Jun,2024,Medicine,Supplement,226
+East,MediPet,921,374563.9923549303,Mar,2023,Supplement,Supplement,312
+North,FurWell,861,337521.7332479667,Apr,2023,Antibiotic,Medicine,353
+Central,PawShield,528,225496.64764016191,Feb,2023,Medicine,Medicine,349
+West,FurryVax,837,228064.250342278,Feb,2024,Vaccine,Vaccine,183
+North,CanineCare,527,357426.3139327071,Mar,2024,Vaccine,Antibiotic,482
+South,FurryVax,564,126088.92092489776,Feb,2023,Vaccine,Vaccine,183
+South,PawShield,776,389546.06001438247,Jun,2023,Supplement,Medicine,349
+East,FurWell,700,332540.0910279823,Mar,2024,Supplement,Medicine,353
+North,HealthyPaws,656,363874.4310086304,Mar,2023,Supplement,Supplement,386
+Central,VetCare Plus,895,587891.4195323016,Feb,2023,Medicine,Medicine,444
+Central,MediPet,716,290234.28733197093,Jul,2023,Medicine,Supplement,312
+Central,MediPet,707,313642.9327238093,Aug,2024,Vaccine,Supplement,312
+West,MediPet,514,204604.26192449455,Jan,2023,Vaccine,Supplement,312
+West,CanineCare,258,179643.93528583267,Mar,2024,Supplement,Antibiotic,482
+East,PawShield,458,196229.4486057814,Jun,2023,Medicine,Medicine,349
+West,PetGuard,323,83124.62280544665,Apr,2024,Vaccine,Supplement,226
+East,FurryVax,934,243630.70418764945,Apr,2024,Vaccine,Vaccine,183
+Central,PawShield,244,110660.55269132426,Aug,2023,Antibiotic,Medicine,349
+East,CanineCare,73,52310.13431304776,Jul,2023,Antibiotic,Antibiotic,482
+South,PawShield,99,46264.04842286918,May,2023,Antibiotic,Medicine,349
+West,MediPet,599,215589.13352513436,Feb,2023,Antibiotic,Supplement,312
+East,PawShield,832,365931.2336523252,Jun,2024,Medicine,Medicine,349
+Central,FurWell,421,193449.87077983475,Feb,2024,Antibiotic,Medicine,353
+Central,MediPet,895,351161.46909693454,Mar,2023,Medicine,Supplement,312
+East,PawShield,823,373404.05040355417,Apr,2023,Antibiotic,Medicine,349
+North,VetCare Plus,190,97821.85378546757,Aug,2024,Antibiotic,Medicine,444
+Central,HealthyPaws,385,222357.16190358443,Mar,2024,Antibiotic,Supplement,386
+East,PawShield,569,283235.98762175674,May,2024,Antibiotic,Medicine,349
+East,PawShield,739,365898.8323262153,Jul,2023,Supplement,Medicine,349
+North,CanineCare,321,180746.98688702667,Jan,2023,Antibiotic,Antibiotic,482
+Central,FurryVax,201,43268.347972183146,Jan,2023,Medicine,Vaccine,183
+West,PawShield,478,210888.1920712129,Jul,2023,Vaccine,Medicine,349
+Central,CanineCare,943,601953.6485372289,Mar,2023,Vaccine,Antibiotic,482
+West,FurryVax,371,89517.5510696757,Aug,2023,Supplement,Vaccine,183
+East,CanineCare,246,141094.3737715537,May,2023,Supplement,Antibiotic,482
+East,MediPet,771,310774.26922324096,Aug,2023,Supplement,Supplement,312
+Central,MediPet,344,153194.7264163572,Jul,2023,Antibiotic,Supplement,312
+South,MediPet,93,42642.02539156671,Feb,2024,Supplement,Supplement,312
+East,CanineCare,269,149743.21470943122,May,2023,Supplement,Antibiotic,482
+Central,FurWell,298,117922.0997971482,Apr,2023,Vaccine,Medicine,353
+West,PawShield,784,301544.6906560533,Feb,2024,Vaccine,Medicine,349
+Central,HealthyPaws,466,252251.70308888255,Aug,2024,Vaccine,Supplement,386
+East,PawShield,342,156843.68218618675,Feb,2023,Vaccine,Medicine,349
+North,HealthyPaws,477,260566.55483759963,Jan,2023,Antibiotic,Supplement,386
+South,MediPet,947,392135.3142252346,Jan,2023,Supplement,Supplement,312
+North,PawShield,341,171423.40737137152,Aug,2024,Vaccine,Medicine,349
+West,MediPet,247,107307.58905369576,Jun,2023,Vaccine,Supplement,312
+East,HealthyPaws,64,28908.570540586177,May,2024,Vaccine,Supplement,386
+West,FurryVax,577,144417.0579269642,Feb,2024,Antibiotic,Vaccine,183
+South,HealthyPaws,538,250097.50276705067,Apr,2024,Medicine,Supplement,386
+South,CanineCare,821,527491.2134107366,Jun,2024,Supplement,Antibiotic,482
+Central,VetCare Plus,317,192418.62403427335,Apr,2024,Medicine,Medicine,444
+West,MediPet,213,90080.0799309801,May,2024,Medicine,Supplement,312
+East,PawShield,679,305994.19718486234,Apr,2023,Vaccine,Medicine,349
+West,PawShield,475,227465.97270985527,Apr,2024,Vaccine,Medicine,349
+Central,PetGuard,588,194933.1258378841,Jun,2024,Medicine,Supplement,226
+North,VetCare Plus,898,490912.97583178827,Mar,2023,Vaccine,Medicine,444
+Central,CanineCare,169,118892.49152475044,Aug,2023,Medicine,Antibiotic,482
+West,VetCare Plus,514,302515.0220073952,Jul,2023,Antibiotic,Medicine,444
+Central,CanineCare,738,427493.401655142,Jan,2024,Antibiotic,Antibiotic,482
+North,FurWell,642,280520.2795654041,Jan,2023,Antibiotic,Medicine,353
+North,VetCare Plus,965,520508.753709862,Aug,2023,Medicine,Medicine,444
+South,HealthyPaws,834,411874.347158121,Jun,2024,Antibiotic,Supplement,386
+West,FurryVax,132,28296.08359288933,Jun,2023,Medicine,Vaccine,183
+Central,FurryVax,591,151681.52890209522,Apr,2023,Medicine,Vaccine,183
+East,CanineCare,739,427083.1172363872,Jul,2024,Vaccine,Antibiotic,482
+East,HealthyPaws,332,182461.69927076597,Feb,2023,Medicine,Supplement,386
+West,VetCare Plus,296,175789.80625533083,Feb,2023,Medicine,Medicine,444
+West,VetCare Plus,300,159005.5967578173,Jul,2023,Antibiotic,Medicine,444
+South,VetCare Plus,193,114055.18872637975,Apr,2024,Supplement,Medicine,444
+East,FurWell,359,154632.3337467266,Apr,2023,Antibiotic,Medicine,353
+North,HealthyPaws,691,397132.634124912,Aug,2024,Medicine,Supplement,386
+West,PawShield,763,324858.26300708787,Jul,2024,Vaccine,Medicine,349
+South,CanineCare,296,202923.87851609208,May,2023,Vaccine,Antibiotic,482
+North,FurryVax,476,104703.66427903251,Jul,2023,Vaccine,Vaccine,183
+East,PetGuard,994,295239.32377087354,Jun,2024,Medicine,Supplement,226
+South,VetCare Plus,324,169068.9675247962,Jan,2024,Medicine,Medicine,444
+Central,FurWell,540,282652.84270063776,Jun,2023,Supplement,Medicine,353
+North,FurWell,244,118711.4732961366,Aug,2023,Vaccine,Medicine,353
+South,FurryVax,987,226185.3019721527,Jun,2023,Supplement,Vaccine,183
+Central,PawShield,365,163868.2712250239,Jun,2024,Antibiotic,Medicine,349
+West,PawShield,986,435501.0666873972,Jun,2023,Supplement,Medicine,349
+Central,FurWell,809,377339.92255267344,Jan,2023,Supplement,Medicine,353
+Central,FurryVax,352,76784.35192505049,Apr,2023,Supplement,Vaccine,183
+Central,FurWell,561,294396.5126753549,May,2024,Antibiotic,Medicine,353
+West,CanineCare,222,148534.97161826683,Mar,2024,Vaccine,Antibiotic,482
+West,HealthyPaws,988,563690.5998369857,Jan,2023,Medicine,Supplement,386
+North,VetCare Plus,472,289804.8444504827,Apr,2023,Medicine,Medicine,444
+North,FurWell,567,269630.2361183912,Jun,2024,Medicine,Medicine,353
+Central,CanineCare,725,458787.6611550803,Jan,2024,Medicine,Antibiotic,482
+West,VetCare Plus,67,38698.769010894895,May,2024,Medicine,Medicine,444
+West,HealthyPaws,159,72223.25522632131,Mar,2023,Vaccine,Supplement,386
+Central,MediPet,884,312106.4558391888,May,2024,Antibiotic,Supplement,312
+West,CanineCare,628,415788.2655453535,Apr,2023,Supplement,Antibiotic,482
+North,VetCare Plus,145,85051.16747076872,Jul,2024,Antibiotic,Medicine,444
+North,VetCare Plus,769,491030.0094914686,Feb,2023,Antibiotic,Medicine,444
+East,PetGuard,966,318852.5229289645,Apr,2023,Vaccine,Supplement,226
+Central,CanineCare,327,230073.042615775,Feb,2023,Supplement,Antibiotic,482
+Central,VetCare Plus,233,138089.22361589942,Jan,2024,Vaccine,Medicine,444
+West,PetGuard,356,110290.21008582972,Apr,2023,Antibiotic,Supplement,226
+Central,PawShield,443,173388.43770163629,Feb,2023,Supplement,Medicine,349
+West,FurWell,908,476801.31322430045,Jun,2023,Antibiotic,Medicine,353
+East,VetCare Plus,699,369713.2472486381,Aug,2024,Antibiotic,Medicine,444
+Central,FurryVax,492,126848.74575946838,Jul,2023,Medicine,Vaccine,183
+East,FurWell,780,319859.28007629275,Feb,2023,Supplement,Medicine,353
+South,FurryVax,374,75428.42856377985,Feb,2024,Medicine,Vaccine,183
+East,CanineCare,418,228658.9188743918,Feb,2024,Vaccine,Antibiotic,482
+West,CanineCare,620,339436.67789257696,Feb,2024,Medicine,Antibiotic,482
+Central,PetGuard,661,181763.7633683009,Jul,2024,Medicine,Supplement,226
+West,PetGuard,792,209026.9825539686,Mar,2023,Antibiotic,Supplement,226
+East,MediPet,324,117957.8646911757,Mar,2024,Medicine,Supplement,312
+East,FurryVax,356,78221.89380698859,Feb,2024,Supplement,Vaccine,183
+South,CanineCare,658,366060.1264027122,Aug,2023,Medicine,Antibiotic,482
+North,FurryVax,390,88063.04971552813,Jun,2024,Antibiotic,Vaccine,183
+Central,HealthyPaws,357,168900.2338061177,Apr,2024,Antibiotic,Supplement,386
+West,PawShield,348,151866.26743114894,Apr,2024,Supplement,Medicine,349
+West,PawShield,166,85811.94766473882,Mar,2023,Medicine,Medicine,349
+West,FurWell,498,240695.57337008868,Feb,2024,Antibiotic,Medicine,353
+South,MediPet,297,131178.00367480956,Mar,2024,Antibiotic,Supplement,312
+North,CanineCare,662,420379.794431076,Jul,2024,Antibiotic,Antibiotic,482
+East,PetGuard,161,49441.29458748965,Jun,2023,Vaccine,Supplement,226
+North,FurryVax,820,165699.11951362164,Jul,2024,Medicine,Vaccine,183
+East,FurWell,572,253698.09872107467,Aug,2023,Supplement,Medicine,353
+Central,HealthyPaws,403,189496.53814376087,Aug,2023,Medicine,Supplement,386
+North,PetGuard,901,251931.5183813857,Jun,2023,Supplement,Supplement,226
+South,CanineCare,406,271776.5754993171,Feb,2024,Antibiotic,Antibiotic,482
+West,PawShield,118,45672.24008571784,Jan,2024,Medicine,Medicine,349
+East,PetGuard,743,221780.0688187351,Apr,2023,Vaccine,Supplement,226
+East,FurryVax,523,112415.4624927896,Jul,2023,Vaccine,Vaccine,183
+West,FurryVax,79,18151.25955064098,Aug,2023,Antibiotic,Vaccine,183
+South,FurWell,335,147383.24187727078,Feb,2023,Vaccine,Medicine,353
+South,CanineCare,166,107119.13199703635,Aug,2024,Supplement,Antibiotic,482
+Central,FurryVax,651,171337.92895417305,Jun,2023,Supplement,Vaccine,183
+Central,HealthyPaws,883,417620.0411634139,Feb,2024,Vaccine,Supplement,386
+South,MediPet,169,68774.70948732761,Jun,2023,Vaccine,Supplement,312
+West,HealthyPaws,638,318835.3202712527,Jul,2024,Vaccine,Supplement,386
+Central,HealthyPaws,618,275789.7831418037,Aug,2023,Supplement,Supplement,386
+East,CanineCare,684,426564.6981736835,Jun,2023,Medicine,Antibiotic,482
+South,FurryVax,625,144827.59241379064,Jul,2024,Antibiotic,Vaccine,183
+West,CanineCare,221,129619.80053840502,Jan,2023,Vaccine,Antibiotic,482
+East,FurWell,600,280901.90707166604,Mar,2024,Antibiotic,Medicine,353
+West,PetGuard,636,189274.05885634068,May,2023,Supplement,Supplement,226
+North,CanineCare,609,409308.0601303974,Jul,2023,Medicine,Antibiotic,482
+South,MediPet,945,365433.7743385164,Aug,2023,Supplement,Supplement,312
+North,CanineCare,936,642567.2608430134,Apr,2023,Vaccine,Antibiotic,482
+Central,PawShield,931,459415.88117853296,Mar,2024,Vaccine,Medicine,349
+South,VetCare Plus,633,345542.598417276,May,2024,Vaccine,Medicine,444
+East,MediPet,636,294693.1090042433,Feb,2024,Vaccine,Supplement,312
+West,VetCare Plus,333,171286.15423890698,Mar,2023,Vaccine,Medicine,444
+East,FurWell,829,389491.1298475928,Aug,2024,Vaccine,Medicine,353
+East,FurryVax,434,100162.2856468709,Feb,2024,Medicine,Vaccine,183
+East,PawShield,515,260177.7547038621,Jun,2024,Medicine,Medicine,349
+North,CanineCare,700,400538.3280296522,Feb,2024,Antibiotic,Antibiotic,482
+West,FurWell,556,242411.01151802405,Jun,2024,Supplement,Medicine,353
+Central,HealthyPaws,629,271535.2666769449,Jun,2024,Medicine,Supplement,386
+West,VetCare Plus,177,86468.0480422693,Aug,2023,Antibiotic,Medicine,444
+West,FurWell,755,386385.2777037631,May,2023,Vaccine,Medicine,353
+East,PetGuard,720,203194.5671485927,May,2024,Medicine,Supplement,226
+South,VetCare Plus,455,275190.4503352167,Apr,2024,Antibiotic,Medicine,444
+North,VetCare Plus,268,159148.44427524478,Feb,2024,Vaccine,Medicine,444
+Central,CanineCare,59,42522.25972613799,Jun,2023,Medicine,Antibiotic,482
+West,HealthyPaws,539,236293.6754900284,Apr,2023,Antibiotic,Supplement,386
+North,PetGuard,370,104783.25367658368,May,2024,Vaccine,Supplement,226
+South,HealthyPaws,120,57458.80605442241,Mar,2023,Antibiotic,Supplement,386
+South,HealthyPaws,991,434042.77067584434,Aug,2024,Vaccine,Supplement,386
+North,HealthyPaws,820,470126.9927457277,Jul,2023,Supplement,Supplement,386
+East,HealthyPaws,303,154543.4653041114,Feb,2024,Vaccine,Supplement,386
+Central,MediPet,847,345419.38220328366,May,2023,Vaccine,Supplement,312
+Central,FurWell,815,406662.82047605497,May,2024,Medicine,Medicine,353
+South,CanineCare,445,290683.9115746975,Apr,2023,Antibiotic,Antibiotic,482
+North,VetCare Plus,419,268696.5576145507,Mar,2024,Antibiotic,Medicine,444
+Central,FurryVax,424,85869.18562488172,Aug,2023,Medicine,Vaccine,183
+North,VetCare Plus,318,208889.61045158337,Jan,2023,Medicine,Medicine,444
+West,MediPet,693,244966.4847132397,Jul,2024,Antibiotic,Supplement,312
+Central,HealthyPaws,334,168184.17876921094,May,2023,Medicine,Supplement,386
+South,HealthyPaws,599,283021.6116985311,Jul,2024,Medicine,Supplement,386
+West,FurWell,109,44109.82627923307,Feb,2023,Antibiotic,Medicine,353
+Central,VetCare Plus,366,224769.07210364775,Feb,2023,Medicine,Medicine,444
+North,HealthyPaws,558,268965.2851923565,May,2024,Vaccine,Supplement,386
+East,PetGuard,839,229203.9314177516,Jun,2023,Antibiotic,Supplement,226
+North,MediPet,779,317010.6056922894,Aug,2023,Antibiotic,Supplement,312
+North,CanineCare,929,538249.9474142066,Jun,2023,Vaccine,Antibiotic,482
+North,PetGuard,283,76610.20866476563,Jan,2023,Medicine,Supplement,226
+West,PawShield,442,203797.32661751803,Mar,2023,Medicine,Medicine,349
+West,FurWell,379,161682.01537130374,Jul,2023,Supplement,Medicine,353
+North,PawShield,172,85343.92105282811,Mar,2023,Vaccine,Medicine,349
+North,FurryVax,120,27031.011296442237,May,2024,Supplement,Vaccine,183
+Central,CanineCare,58,37056.31249859239,Apr,2024,Supplement,Antibiotic,482
+East,FurWell,525,258155.00715248185,Aug,2024,Vaccine,Medicine,353
+Central,FurWell,204,85924.65335472152,Jul,2023,Medicine,Medicine,353
+East,VetCare Plus,393,199196.50891387693,Jul,2023,Supplement,Medicine,444
+Central,FurWell,479,234128.1727958465,Jan,2024,Vaccine,Medicine,353
+North,VetCare Plus,993,565833.3908483548,Jul,2023,Supplement,Medicine,444
+North,PetGuard,567,171294.88276217488,Jul,2023,Medicine,Supplement,226
+North,FurryVax,728,160454.5027388636,Apr,2023,Supplement,Vaccine,183
+East,FurryVax,767,169665.89925051006,Jun,2024,Antibiotic,Vaccine,183
+North,FurWell,189,77775.34223493858,Mar,2023,Medicine,Medicine,353
+West,PawShield,466,208296.2327549795,Jun,2023,Vaccine,Medicine,349
+West,MediPet,922,409357.02239520935,Feb,2023,Vaccine,Supplement,312
+East,VetCare Plus,270,165969.4195625677,Mar,2024,Medicine,Medicine,444
+East,FurryVax,575,150265.07192952617,May,2023,Supplement,Vaccine,183
+South,VetCare Plus,464,264692.9207841949,Apr,2024,Medicine,Medicine,444
+South,PetGuard,62,16523.696035579775,Apr,2023,Vaccine,Supplement,226
+West,PawShield,752,290981.3657437534,May,2023,Medicine,Medicine,349
+North,FurWell,974,502678.487172818,Mar,2024,Medicine,Medicine,353
+East,PetGuard,93,30889.16024290889,Jan,2024,Vaccine,Supplement,226
+West,FurryVax,558,119383.81425155568,Jul,2023,Antibiotic,Vaccine,183
+South,HealthyPaws,331,142313.40833111983,Aug,2024,Vaccine,Supplement,386
+Central,FurWell,712,365219.2142859217,Aug,2024,Antibiotic,Medicine,353
+West,VetCare Plus,139,78236.99848998111,Jul,2024,Vaccine,Medicine,444
+Central,FurWell,695,316941.8527258464,Jul,2023,Supplement,Medicine,353
+West,PawShield,984,402458.2592327311,Jul,2024,Supplement,Medicine,349
+East,FurWell,80,37044.46717004152,Jan,2024,Antibiotic,Medicine,353
+Central,FurWell,213,90723.85947325104,Apr,2023,Vaccine,Medicine,353
+North,FurWell,639,264012.6726455662,Jun,2024,Vaccine,Medicine,353
+Central,PawShield,875,451656.7994888023,Jan,2024,Supplement,Medicine,349
+Central,HealthyPaws,626,282767.9340441796,Aug,2023,Supplement,Supplement,386
+North,PetGuard,107,31692.43118765572,Apr,2023,Medicine,Supplement,226
+North,PawShield,989,478660.664094878,Mar,2023,Supplement,Medicine,349
+East,VetCare Plus,72,45988.92040565192,Mar,2023,Medicine,Medicine,444
+East,PetGuard,432,119179.97419541,Feb,2024,Supplement,Supplement,226
+South,HealthyPaws,799,360746.0170240316,Aug,2024,Supplement,Supplement,386
+Central,PawShield,278,135209.6641223356,Jul,2023,Supplement,Medicine,349
+East,HealthyPaws,231,104576.8007426816,Jul,2023,Medicine,Supplement,386
+East,FurWell,704,306282.9311693512,Aug,2023,Vaccine,Medicine,353
+North,FurWell,405,204249.05200522332,Mar,2024,Medicine,Medicine,353
+East,CanineCare,61,40494.50519839913,Apr,2024,Vaccine,Antibiotic,482
+East,MediPet,855,334617.0321000207,Jan,2023,Medicine,Supplement,312
+West,HealthyPaws,955,457282.7383753981,Aug,2024,Antibiotic,Supplement,386
+West,PetGuard,898,259877.9516569113,Apr,2024,Vaccine,Supplement,226
+North,MediPet,70,24672.214709833537,May,2024,Medicine,Supplement,312
+South,FurryVax,214,52383.56966646726,Feb,2023,Supplement,Vaccine,183
+Central,CanineCare,771,499061.236272448,Jul,2023,Vaccine,Antibiotic,482
+West,HealthyPaws,104,59804.9000798545,Jun,2023,Vaccine,Supplement,386
+West,MediPet,726,257853.64287546583,May,2024,Vaccine,Supplement,312
+West,CanineCare,207,126816.98271927546,Jun,2023,Medicine,Antibiotic,482
+East,CanineCare,254,143036.65742579818,Jan,2023,Vaccine,Antibiotic,482
+East,PetGuard,534,155486.5841439073,May,2023,Antibiotic,Supplement,226
+East,PetGuard,707,232354.51737316276,Mar,2024,Supplement,Supplement,226
+East,HealthyPaws,506,251180.90390572068,May,2023,Antibiotic,Supplement,386
+South,MediPet,627,221892.9628685488,Mar,2023,Medicine,Supplement,312
+East,FurryVax,824,215234.78366399172,Jan,2023,Antibiotic,Vaccine,183
+West,CanineCare,636,346888.7313673379,Aug,2023,Supplement,Antibiotic,482
+North,HealthyPaws,173,99423.4904982555,Mar,2024,Vaccine,Supplement,386
+South,HealthyPaws,93,42387.19932497732,Feb,2024,Antibiotic,Supplement,386
+South,MediPet,377,155563.11325109744,Feb,2023,Antibiotic,Supplement,312
+Central,PawShield,927,457662.18893019087,Aug,2024,Medicine,Medicine,349
+Central,FurryVax,165,40057.821450971576,Mar,2024,Vaccine,Vaccine,183
+Central,PetGuard,997,326038.70491335395,Feb,2023,Supplement,Supplement,226
+East,FurryVax,320,65293.59586573844,Aug,2024,Antibiotic,Vaccine,183
+East,FurryVax,197,52484.11599432916,Jan,2024,Antibiotic,Vaccine,183
+East,FurWell,100,39115.688386937,May,2024,Supplement,Medicine,353
+East,MediPet,337,121310.33248668228,Feb,2024,Vaccine,Supplement,312
+West,PawShield,325,144808.18205394436,Feb,2024,Vaccine,Medicine,349
+West,CanineCare,827,448937.736771065,Jan,2024,Vaccine,Antibiotic,482
+Central,FurryVax,188,49888.284741175536,Mar,2023,Vaccine,Vaccine,183
+South,VetCare Plus,305,198689.9069640696,Aug,2023,Medicine,Medicine,444
+South,MediPet,427,182845.90919828345,Jul,2024,Medicine,Supplement,312
+South,PawShield,550,256205.66547387396,Mar,2024,Antibiotic,Medicine,349
+East,PawShield,217,84137.86318057113,Feb,2024,Supplement,Medicine,349
+North,HealthyPaws,924,489014.198900716,Apr,2023,Vaccine,Supplement,386
+East,FurryVax,575,154113.18478762434,Jan,2023,Antibiotic,Vaccine,183
+South,VetCare Plus,279,157263.3964954044,May,2024,Supplement,Medicine,444
+West,PawShield,520,221561.31646578776,Apr,2024,Antibiotic,Medicine,349
+Central,FurryVax,648,157074.33231700785,Jan,2023,Supplement,Vaccine,183
+Central,MediPet,355,136734.7110018458,Aug,2023,Medicine,Supplement,312
+East,PawShield,932,382301.80276191,May,2024,Supplement,Medicine,349
+Central,FurWell,971,470374.4533080121,Jul,2023,Supplement,Medicine,353
+North,CanineCare,352,212980.910478988,Jul,2024,Antibiotic,Antibiotic,482
+North,FurWell,401,184433.07590228465,Aug,2023,Supplement,Medicine,353
+South,HealthyPaws,350,188649.25690038165,Aug,2023,Vaccine,Supplement,386
+Central,HealthyPaws,746,357673.99424523296,Feb,2024,Vaccine,Supplement,386
+East,FurryVax,857,209248.3550799976,Jun,2024,Supplement,Vaccine,183
+West,PetGuard,531,174701.18557312613,Feb,2023,Antibiotic,Supplement,226
+Central,PetGuard,938,237770.9956130313,May,2024,Antibiotic,Supplement,226
+South,HealthyPaws,255,113912.02132434136,Jul,2024,Antibiotic,Supplement,386
+South,PetGuard,549,167971.3300394594,Mar,2024,Supplement,Supplement,226
+North,CanineCare,330,206114.85281424416,Mar,2023,Vaccine,Antibiotic,482
+North,HealthyPaws,679,333281.3983701904,Jul,2024,Antibiotic,Supplement,386
+West,FurryVax,54,14625.631223276583,Apr,2023,Supplement,Vaccine,183
+East,FurWell,68,33063.34721243128,Apr,2023,Vaccine,Medicine,353
+East,MediPet,182,66256.02972553748,Jul,2023,Supplement,Supplement,312
+North,MediPet,347,157544.6487527894,Jun,2024,Antibiotic,Supplement,312
+South,PawShield,973,395930.958919539,Jun,2024,Vaccine,Medicine,349
+West,VetCare Plus,283,175112.47814789249,Mar,2023,Vaccine,Medicine,444
+Central,HealthyPaws,176,98549.1610127832,Jan,2024,Antibiotic,Supplement,386
+East,VetCare Plus,658,327003.98728747305,Feb,2023,Medicine,Medicine,444
+North,FurryVax,504,118957.00923065755,Feb,2024,Supplement,Vaccine,183
+South,FurWell,761,366594.2760275916,May,2023,Antibiotic,Medicine,353
+Central,MediPet,687,279640.4517880655,Jul,2023,Medicine,Supplement,312
+Central,PetGuard,339,90363.04613598603,Feb,2023,Antibiotic,Supplement,226
+South,MediPet,901,342433.90672627377,Jun,2023,Antibiotic,Supplement,312
+North,CanineCare,982,565055.1882042884,Aug,2023,Supplement,Antibiotic,482
+North,PetGuard,978,327072.46158600686,Aug,2023,Vaccine,Supplement,226
+Central,PetGuard,790,229013.34618054752,May,2023,Vaccine,Supplement,226
+East,MediPet,525,237453.68222910468,Feb,2023,Vaccine,Supplement,312
+East,PawShield,870,345530.75421858963,Jul,2024,Medicine,Medicine,349
+North,VetCare Plus,922,508848.91136719874,Mar,2023,Supplement,Medicine,444
+West,MediPet,949,347354.976367546,Jun,2023,Supplement,Supplement,312
+West,FurryVax,517,134343.80138457485,Jul,2024,Antibiotic,Vaccine,183
+South,PetGuard,185,52948.64753293511,Mar,2023,Medicine,Supplement,226
+Central,CanineCare,871,592648.3249933532,Mar,2024,Antibiotic,Antibiotic,482
+Central,VetCare Plus,933,474391.0306822168,Aug,2023,Antibiotic,Medicine,444
+West,CanineCare,97,51660.55575917775,May,2023,Supplement,Antibiotic,482
+Central,FurWell,735,354074.4258446797,Feb,2024,Antibiotic,Medicine,353
+South,CanineCare,404,215107.83269452976,Mar,2024,Medicine,Antibiotic,482
+South,CanineCare,922,622419.7992742249,Mar,2024,Medicine,Antibiotic,482
+East,FurWell,388,180819.6300850371,Jan,2024,Vaccine,Medicine,353
+West,FurryVax,886,207159.7584205535,Feb,2023,Antibiotic,Vaccine,183
+Central,CanineCare,140,77432.13535063167,Aug,2024,Supplement,Antibiotic,482
+West,VetCare Plus,155,91038.70248195223,Jul,2024,Medicine,Medicine,444
+North,PetGuard,860,287680.4092262042,Apr,2024,Antibiotic,Supplement,226
+East,VetCare Plus,886,520864.1520204823,Aug,2023,Supplement,Medicine,444
+Central,CanineCare,783,429855.9267387805,Aug,2024,Medicine,Antibiotic,482
+South,VetCare Plus,399,244623.8113645304,May,2024,Supplement,Medicine,444
+North,HealthyPaws,554,256979.69739010037,Jul,2023,Medicine,Supplement,386
+South,FurWell,173,87317.77880083192,Apr,2024,Antibiotic,Medicine,353
+South,PawShield,160,78670.63459836114,Jan,2024,Medicine,Medicine,349
+West,CanineCare,724,457896.8742500159,Aug,2023,Medicine,Antibiotic,482
+North,FurryVax,908,231333.1659895308,Mar,2024,Vaccine,Vaccine,183
+South,PetGuard,446,150367.503450251,Jul,2024,Antibiotic,Supplement,226
+South,MediPet,457,202742.86052987783,May,2024,Antibiotic,Supplement,312
+South,FurryVax,666,143859.38383025935,Jun,2024,Vaccine,Vaccine,183
+Central,MediPet,753,305782.683598026,Mar,2024,Vaccine,Supplement,312
+East,PetGuard,829,256618.2855958825,Aug,2024,Antibiotic,Supplement,226
+Central,MediPet,948,328343.5571406731,Jan,2024,Medicine,Supplement,312
+South,VetCare Plus,736,457521.78445642994,Apr,2023,Supplement,Medicine,444
+South,MediPet,749,321610.2917567459,Mar,2024,Medicine,Supplement,312
+East,FurWell,821,330674.3152307312,Jun,2023,Antibiotic,Medicine,353
+Central,FurWell,810,393775.484794404,Apr,2024,Supplement,Medicine,353
+North,FurryVax,446,90203.07870741143,Jun,2024,Medicine,Vaccine,183
+East,FurWell,685,339021.0274631813,Apr,2024,Supplement,Medicine,353
+Central,FurWell,844,348869.54111536214,May,2023,Antibiotic,Medicine,353
+North,HealthyPaws,227,111402.88468536848,Jul,2023,Medicine,Supplement,386
+Central,MediPet,183,70355.12519441145,May,2023,Medicine,Supplement,312
+South,VetCare Plus,207,119133.02235982084,Jan,2024,Supplement,Medicine,444
+Central,PawShield,124,56615.50307622673,Apr,2024,Vaccine,Medicine,349
+Central,HealthyPaws,475,217907.66726798052,Feb,2024,Supplement,Supplement,386
+South,PawShield,389,200943.02076277224,May,2024,Vaccine,Medicine,349
+Central,CanineCare,624,384461.77853222174,Feb,2023,Supplement,Antibiotic,482
+Central,FurWell,90,39850.71137923563,Jul,2024,Medicine,Medicine,353
+Central,MediPet,75,26150.451546122295,Aug,2024,Antibiotic,Supplement,312
+South,PawShield,576,299254.68073666835,Feb,2023,Vaccine,Medicine,349
+Central,VetCare Plus,691,443632.55293442326,Apr,2023,Vaccine,Medicine,444
+West,PetGuard,260,65194.28924520038,Feb,2024,Vaccine,Supplement,226
+East,VetCare Plus,139,87493.90391720162,Jan,2023,Vaccine,Medicine,444
+Central,PetGuard,638,180986.6580217329,May,2023,Antibiotic,Supplement,226
+West,FurryVax,373,89687.80370639758,Jul,2023,Medicine,Vaccine,183
+Central,PetGuard,824,273976.3056907901,Feb,2023,Supplement,Supplement,226
+North,MediPet,855,375093.8226138474,Feb,2024,Supplement,Supplement,312
+West,FurryVax,454,109118.82750115656,Aug,2023,Vaccine,Vaccine,183
+South,FurryVax,865,217009.08778328955,Mar,2024,Supplement,Vaccine,183
+East,VetCare Plus,616,301404.67244243866,Feb,2023,Medicine,Medicine,444
+Central,FurryVax,600,153645.1860893043,May,2023,Vaccine,Vaccine,183
+East,FurWell,472,197992.32332098155,Mar,2023,Vaccine,Medicine,353
+East,FurWell,167,80047.78290660167,Jan,2023,Antibiotic,Medicine,353
+North,MediPet,737,271096.39635113743,May,2023,Medicine,Supplement,312
+Central,CanineCare,388,213201.61057256823,Mar,2024,Vaccine,Antibiotic,482
+Central,PetGuard,971,280947.58293414186,Jun,2023,Antibiotic,Supplement,226
+Central,MediPet,760,351758.8814271696,Jun,2023,Supplement,Supplement,312
+South,VetCare Plus,370,198889.1853189864,Apr,2023,Antibiotic,Medicine,444
+East,HealthyPaws,745,367555.6369833747,Aug,2024,Antibiotic,Supplement,386
+East,CanineCare,614,425193.581353747,Mar,2023,Medicine,Antibiotic,482
+South,FurWell,319,162135.48961605676,Feb,2023,Medicine,Medicine,353
+North,FurryVax,837,201785.59592554485,Jan,2023,Supplement,Vaccine,183
+Central,CanineCare,719,412169.2820749605,Jun,2023,Antibiotic,Antibiotic,482
+Central,MediPet,187,72670.14884811177,Feb,2024,Antibiotic,Supplement,312
+North,FurWell,918,377098.0645659409,Mar,2023,Antibiotic,Medicine,353
+Central,HealthyPaws,803,368083.6943789496,Jun,2024,Medicine,Supplement,386
+West,FurWell,114,44955.278910491535,Jun,2024,Vaccine,Medicine,353
+South,PawShield,447,174093.40107733593,Aug,2024,Medicine,Medicine,349
+East,PetGuard,770,217640.51931683,May,2024,Vaccine,Supplement,226
+West,PawShield,651,338315.1338972585,May,2023,Antibiotic,Medicine,349
+South,FurryVax,411,109425.045355101,Aug,2024,Antibiotic,Vaccine,183
+North,HealthyPaws,500,252022.58628663735,Apr,2023,Medicine,Supplement,386
+East,FurWell,203,96080.96839653312,Mar,2023,Supplement,Medicine,353
+North,FurWell,474,229246.49522798724,Feb,2024,Antibiotic,Medicine,353
+West,FurWell,654,276449.8858047557,Jul,2023,Medicine,Medicine,353
+South,HealthyPaws,187,84202.94100113421,Mar,2023,Medicine,Supplement,386
+South,FurryVax,663,143973.52511976182,May,2023,Medicine,Vaccine,183
+Central,CanineCare,938,647495.8631764002,Mar,2024,Vaccine,Antibiotic,482
+Central,HealthyPaws,863,462925.6631208264,May,2023,Vaccine,Supplement,386
+East,CanineCare,660,398981.2536551346,Apr,2023,Antibiotic,Antibiotic,482
+North,VetCare Plus,257,133616.91624323276,Mar,2024,Medicine,Medicine,444
+Central,VetCare Plus,948,574021.7050999908,Feb,2023,Antibiotic,Medicine,444
+Central,VetCare Plus,968,623168.1943440837,Jul,2024,Supplement,Medicine,444
+Central,FurryVax,284,69414.80285317231,Jul,2024,Supplement,Vaccine,183
+Central,PetGuard,485,154149.3171888761,May,2023,Antibiotic,Supplement,226
+North,MediPet,662,227650.27317502035,May,2024,Vaccine,Supplement,312
+North,PetGuard,582,180870.5337687418,Jul,2023,Vaccine,Supplement,226
+East,FurryVax,420,104578.05053881272,Mar,2023,Antibiotic,Vaccine,183
+East,MediPet,925,431953.2389462674,Jun,2024,Supplement,Supplement,312
+West,FurWell,473,221006.43505736583,Mar,2024,Supplement,Medicine,353
+West,MediPet,364,163765.0070668921,Jul,2024,Vaccine,Supplement,312
+North,FurWell,507,233259.60090203816,Feb,2023,Vaccine,Medicine,353
+East,VetCare Plus,214,135806.5765246407,Jan,2024,Medicine,Medicine,444
+West,FurryVax,140,31982.3183716852,May,2023,Vaccine,Vaccine,183
+Central,VetCare Plus,791,486291.92580780847,Jul,2024,Supplement,Medicine,444
+Central,VetCare Plus,842,412834.4242552038,Aug,2023,Antibiotic,Medicine,444
+Central,MediPet,249,106402.2424448297,Apr,2023,Vaccine,Supplement,312
+East,FurWell,720,380916.4181100491,Mar,2023,Medicine,Medicine,353
+West,PawShield,735,335290.0075777076,Jul,2024,Vaccine,Medicine,349
+North,PetGuard,612,205436.8974122152,Jun,2024,Supplement,Supplement,226
+East,FurWell,670,314549.47550404107,Aug,2023,Antibiotic,Medicine,353
+East,HealthyPaws,466,222324.28209013157,Feb,2023,Supplement,Supplement,386
+North,MediPet,947,391568.819341848,Aug,2024,Antibiotic,Supplement,312
+South,PawShield,844,380798.4812229857,Aug,2024,Medicine,Medicine,349
+East,PetGuard,441,126074.53877768948,Apr,2023,Supplement,Supplement,226
+East,VetCare Plus,767,387272.470169136,Apr,2024,Supplement,Medicine,444
+East,PetGuard,617,173105.41420297412,Aug,2023,Supplement,Supplement,226
+Central,MediPet,237,88285.03571440151,Aug,2023,Vaccine,Supplement,312
+South,MediPet,261,116816.96324064012,Apr,2023,Vaccine,Supplement,312
+East,HealthyPaws,847,448016.7470925525,Feb,2023,Medicine,Supplement,386
+West,VetCare Plus,832,498060.6122170613,Aug,2023,Supplement,Medicine,444
+West,MediPet,552,204746.2829892551,May,2023,Antibiotic,Supplement,312
+Central,HealthyPaws,105,52729.12813891656,Aug,2024,Medicine,Supplement,386
+West,HealthyPaws,518,275065.3083453515,Aug,2023,Supplement,Supplement,386
+North,FurWell,438,207973.0290363516,Jun,2023,Supplement,Medicine,353
+East,HealthyPaws,611,303896.5675568423,Apr,2024,Supplement,Supplement,386
+Central,PawShield,424,175235.1018291226,Aug,2023,Antibiotic,Medicine,349
+East,PawShield,924,377927.58356918674,May,2024,Antibiotic,Medicine,349
+South,FurWell,883,412108.474976394,May,2023,Vaccine,Medicine,353
+West,FurWell,199,82234.15254540314,Aug,2023,Medicine,Medicine,353
+West,HealthyPaws,964,446669.7767032325,Aug,2024,Supplement,Supplement,386
+Central,VetCare Plus,457,240686.8175888604,Mar,2023,Medicine,Medicine,444
+East,CanineCare,909,527477.6894319808,Aug,2023,Supplement,Antibiotic,482
+East,MediPet,402,155580.4694385673,Jul,2023,Medicine,Supplement,312
+Central,FurWell,640,277889.7590267888,May,2023,Supplement,Medicine,353
+Central,CanineCare,843,546697.6183925747,Feb,2024,Antibiotic,Antibiotic,482
+West,HealthyPaws,939,490222.4287765332,Jun,2023,Antibiotic,Supplement,386
+Central,FurryVax,919,208110.66145106856,Feb,2023,Vaccine,Vaccine,183
+East,PawShield,718,302828.1566931295,May,2024,Antibiotic,Medicine,349
+West,PawShield,815,333799.96841678844,Jul,2024,Vaccine,Medicine,349
+North,HealthyPaws,795,363404.22943517513,May,2023,Medicine,Supplement,386
+West,PetGuard,147,36894.55806074131,Aug,2023,Medicine,Supplement,226
+West,PetGuard,156,48016.31232358254,Mar,2024,Medicine,Supplement,226
+West,MediPet,284,119673.28020134296,May,2023,Antibiotic,Supplement,312
+South,HealthyPaws,79,44085.06774936873,Jun,2023,Supplement,Supplement,386
+West,MediPet,611,254747.71247825224,Mar,2024,Vaccine,Supplement,312
+West,FurryVax,586,141110.9720326507,Jun,2024,Antibiotic,Vaccine,183
+North,CanineCare,365,204481.15465935343,Jul,2024,Supplement,Antibiotic,482
+North,VetCare Plus,585,334461.79075803334,Jun,2023,Supplement,Medicine,444
+North,CanineCare,823,557878.4363337865,May,2024,Medicine,Antibiotic,482
+East,FurWell,865,386168.0955759995,Jun,2023,Vaccine,Medicine,353
+Central,FurryVax,454,118921.1440081559,Mar,2023,Antibiotic,Vaccine,183
+South,MediPet,131,49613.32496168535,Apr,2024,Supplement,Supplement,312
+Central,MediPet,472,170038.3206339567,Feb,2023,Vaccine,Supplement,312
+North,CanineCare,682,386288.75868433504,May,2024,Antibiotic,Antibiotic,482
+North,HealthyPaws,100,46815.848460170426,Mar,2023,Medicine,Supplement,386
+South,CanineCare,794,444045.9420190314,Apr,2023,Medicine,Antibiotic,482
+West,FurWell,400,211684.97543943307,May,2024,Antibiotic,Medicine,353
+West,VetCare Plus,388,207863.64177243496,Mar,2023,Medicine,Medicine,444
+West,PetGuard,606,199720.1397097166,Mar,2024,Vaccine,Supplement,226
+East,FurryVax,898,206061.55118755263,Feb,2023,Vaccine,Vaccine,183
+West,FurWell,805,396162.6990206542,Apr,2023,Antibiotic,Medicine,353
+North,FurWell,534,219311.6291941247,May,2024,Supplement,Medicine,353
+North,PetGuard,309,86885.41403982355,May,2024,Vaccine,Supplement,226
+North,FurWell,165,64420.54739735396,Jul,2023,Supplement,Medicine,353
+East,PetGuard,455,137013.86009882318,Jan,2023,Medicine,Supplement,226
+West,HealthyPaws,430,215768.63596359143,Apr,2023,Vaccine,Supplement,386
+Central,PawShield,827,391900.95615808485,Jan,2023,Supplement,Medicine,349
+Central,PetGuard,178,60047.14020026123,Apr,2024,Supplement,Supplement,226
+East,CanineCare,800,479403.75477590656,Jan,2023,Antibiotic,Antibiotic,482
+South,MediPet,970,400577.3050551189,Aug,2023,Antibiotic,Supplement,312
+Central,CanineCare,244,163823.3530598848,Jun,2023,Supplement,Antibiotic,482
+East,HealthyPaws,120,66134.18692218761,Aug,2023,Supplement,Supplement,386
+Central,PawShield,514,260678.8826315167,Jul,2023,Vaccine,Medicine,349
+Central,PawShield,844,401572.8390502921,Jun,2023,Medicine,Medicine,349
+Central,FurryVax,244,54879.09479287443,Mar,2024,Supplement,Vaccine,183
+East,PetGuard,148,39182.8442334431,Jan,2023,Vaccine,Supplement,226
+North,FurWell,159,62454.02046897472,Apr,2024,Medicine,Medicine,353
+West,CanineCare,588,336780.1474366455,Jan,2024,Supplement,Antibiotic,482
+North,VetCare Plus,993,567526.612746344,Aug,2023,Medicine,Medicine,444
+North,PawShield,621,309804.8265753339,Jun,2024,Medicine,Medicine,349
+East,VetCare Plus,801,525585.4243019925,May,2023,Medicine,Medicine,444
+Central,PetGuard,153,40706.87370742759,Jul,2023,Vaccine,Supplement,226
+South,HealthyPaws,621,328348.5657940032,Feb,2024,Supplement,Supplement,386
+West,PetGuard,220,67768.99404974142,Jul,2023,Supplement,Supplement,226
+Central,CanineCare,410,249976.9125200454,Jun,2024,Supplement,Antibiotic,482
+West,PawShield,673,330303.59980121674,Apr,2023,Antibiotic,Medicine,349
+East,PawShield,513,248955.4801654695,Jul,2024,Medicine,Medicine,349
+East,VetCare Plus,580,314208.8007296957,May,2023,Medicine,Medicine,444
+South,FurWell,926,479740.8077829072,Jan,2024,Supplement,Medicine,353
+Central,HealthyPaws,146,65510.62883409301,Aug,2023,Supplement,Supplement,386
+East,PawShield,960,477240.9249166648,Apr,2023,Supplement,Medicine,349
+North,FurryVax,632,163903.25099904495,Feb,2023,Supplement,Vaccine,183
+South,CanineCare,895,600631.0891417274,May,2023,Medicine,Antibiotic,482
+Central,FurryVax,130,34541.10545521916,Jun,2023,Supplement,Vaccine,183
+West,FurryVax,938,232343.1027135224,Apr,2023,Medicine,Vaccine,183
+West,VetCare Plus,362,197813.19753989577,Jun,2023,Vaccine,Medicine,444
+South,HealthyPaws,101,46347.89211964442,Aug,2024,Medicine,Supplement,386
+East,FurryVax,201,47462.64470107942,Jun,2023,Medicine,Vaccine,183
+North,FurryVax,318,82026.19199870192,Jul,2023,Antibiotic,Vaccine,183
+South,HealthyPaws,542,284716.480166284,Aug,2023,Antibiotic,Supplement,386
+South,FurWell,298,129321.7856719146,May,2023,Antibiotic,Medicine,353
+Central,PetGuard,165,46214.35999272276,Jul,2024,Supplement,Supplement,226
+East,PawShield,658,343328.74460615386,May,2023,Vaccine,Medicine,349
+Central,CanineCare,688,487371.1547281948,Aug,2023,Medicine,Antibiotic,482
+South,FurWell,751,303529.33423894143,Mar,2024,Medicine,Medicine,353
+North,FurWell,685,299187.39368330885,May,2023,Medicine,Medicine,353
+North,MediPet,510,188335.03927347323,Jan,2024,Supplement,Supplement,312
+Central,FurWell,258,125502.56373462809,Aug,2024,Vaccine,Medicine,353
+North,FurryVax,646,132882.23593629454,May,2023,Vaccine,Vaccine,183
+South,MediPet,104,40737.1030950182,Jan,2024,Medicine,Supplement,312
+East,PawShield,935,472166.115464024,Jan,2023,Supplement,Medicine,349
+West,FurWell,439,224192.16882250248,Jun,2023,Antibiotic,Medicine,353
+Central,PetGuard,240,60526.46814101503,Aug,2023,Medicine,Supplement,226
+Central,MediPet,391,135087.7058066856,Jul,2024,Vaccine,Supplement,312
+East,PawShield,690,343095.7678562479,Apr,2024,Supplement,Medicine,349
+East,FurryVax,961,204121.2423178093,May,2023,Vaccine,Vaccine,183
+West,HealthyPaws,139,64177.92752063364,Apr,2024,Antibiotic,Supplement,386
+South,FurryVax,369,79864.3793944136,Aug,2024,Vaccine,Vaccine,183
+South,FurWell,933,418940.39861656463,May,2023,Vaccine,Medicine,353
+South,HealthyPaws,375,177613.90041417148,Feb,2023,Vaccine,Supplement,386
+South,VetCare Plus,833,451714.7613286558,Jul,2024,Antibiotic,Medicine,444
+East,HealthyPaws,847,383796.7556332329,Feb,2023,Vaccine,Supplement,386
+Central,MediPet,670,287419.7892470738,Apr,2023,Vaccine,Supplement,312
+East,PetGuard,754,235976.7629934939,Mar,2024,Antibiotic,Supplement,226
+East,HealthyPaws,922,411057.0711118408,Aug,2024,Antibiotic,Supplement,386
+South,FurWell,83,43364.84097876482,Jan,2024,Supplement,Medicine,353
+South,FurWell,825,428345.7524876513,Feb,2023,Vaccine,Medicine,353
+West,CanineCare,754,461925.0827468989,Aug,2024,Vaccine,Antibiotic,482
+North,FurryVax,787,188416.86110685425,Jul,2024,Medicine,Vaccine,183
+West,CanineCare,896,645014.7631036621,Apr,2023,Antibiotic,Antibiotic,482
+North,FurryVax,578,134948.74861770353,Apr,2023,Supplement,Vaccine,183
+East,MediPet,522,219093.4005019109,Jul,2023,Supplement,Supplement,312
+North,HealthyPaws,524,237034.91232360984,Feb,2024,Medicine,Supplement,386
+Central,HealthyPaws,452,193657.78645735176,Jun,2024,Antibiotic,Supplement,386
+West,FurWell,953,413658.569084072,Feb,2024,Supplement,Medicine,353
+South,PetGuard,143,36652.57475604036,Aug,2023,Supplement,Supplement,226
+West,HealthyPaws,437,247102.44929491,Jan,2024,Vaccine,Supplement,386
+Central,HealthyPaws,216,105706.81723538932,Mar,2023,Medicine,Supplement,386
+East,CanineCare,345,246803.21992988052,Feb,2023,Vaccine,Antibiotic,482
+North,MediPet,62,25483.794572554238,Aug,2024,Antibiotic,Supplement,312
+North,CanineCare,293,178518.21470958082,Aug,2023,Antibiotic,Antibiotic,482
+North,VetCare Plus,300,156368.27452703632,Apr,2024,Medicine,Medicine,444
+North,PawShield,87,37420.71038357211,Jan,2023,Supplement,Medicine,349
+North,VetCare Plus,161,97849.88678530652,Mar,2024,Vaccine,Medicine,444
+Central,HealthyPaws,516,280321.2570905575,Jan,2024,Medicine,Supplement,386
+East,PawShield,969,486075.6176046516,Feb,2024,Antibiotic,Medicine,349
+North,MediPet,532,204439.7392556975,Feb,2023,Supplement,Supplement,312
+West,FurWell,762,357360.4976698719,Jan,2023,Medicine,Medicine,353
+Central,PetGuard,545,148279.93081555498,Jul,2024,Supplement,Supplement,226
+Central,PawShield,999,452200.9681173657,Aug,2023,Antibiotic,Medicine,349
+South,FurWell,775,313867.9067267096,Apr,2024,Medicine,Medicine,353
+West,PetGuard,805,203433.55762370475,Jul,2023,Antibiotic,Supplement,226
+East,FurWell,61,30492.41190511499,May,2023,Supplement,Medicine,353
+East,MediPet,568,243554.03004834373,Jan,2024,Medicine,Supplement,312
+East,FurryVax,791,178365.5053959838,Mar,2023,Vaccine,Vaccine,183
+East,CanineCare,988,615555.9488153143,Jan,2024,Vaccine,Antibiotic,482
+West,PawShield,523,242026.6141733185,Jan,2024,Supplement,Medicine,349
+East,VetCare Plus,263,173738.67335371565,Jun,2024,Medicine,Medicine,444
+East,VetCare Plus,397,207106.36229359292,Mar,2024,Antibiotic,Medicine,444
+North,MediPet,772,304824.9118374183,Jan,2024,Supplement,Supplement,312
+West,FurWell,430,198850.9970817533,May,2024,Vaccine,Medicine,353
+South,PetGuard,433,125014.53807661423,Apr,2023,Medicine,Supplement,226
+North,CanineCare,976,691278.5167968293,Apr,2023,Supplement,Antibiotic,482
+Central,MediPet,844,376257.6366632584,Mar,2024,Medicine,Supplement,312
+Central,HealthyPaws,260,139045.86516032324,Aug,2023,Antibiotic,Supplement,386
+Central,PetGuard,54,15051.387260191896,Jan,2024,Medicine,Supplement,226
+North,PetGuard,583,178603.2842254162,Jan,2024,Supplement,Supplement,226
+South,PawShield,255,116842.45413362306,May,2023,Supplement,Medicine,349
+West,PetGuard,329,85193.63525121927,Mar,2023,Supplement,Supplement,226
+Central,PetGuard,261,68224.54844123776,Jun,2024,Supplement,Supplement,226
+East,FurWell,225,104541.63453157758,May,2023,Supplement,Medicine,353
+North,HealthyPaws,79,38222.39496081047,Jan,2024,Medicine,Supplement,386
+North,FurryVax,451,101100.96570457926,Aug,2023,Supplement,Vaccine,183
+South,PetGuard,994,320149.2416108704,Mar,2024,Medicine,Supplement,226
+West,PetGuard,516,139085.30096781143,Aug,2024,Antibiotic,Supplement,226
+South,HealthyPaws,931,421658.94397962606,Jun,2024,Antibiotic,Supplement,386
+East,PawShield,514,231431.93194732175,Jan,2024,Medicine,Medicine,349
+East,CanineCare,522,337596.23199574754,May,2023,Supplement,Antibiotic,482
+South,PetGuard,465,148909.62697455165,Jun,2023,Medicine,Supplement,226
+Central,CanineCare,460,292488.50244444003,Apr,2024,Vaccine,Antibiotic,482
+West,FurryVax,117,30269.27862134032,Apr,2024,Antibiotic,Vaccine,183
+West,PawShield,607,295679.19316108484,Mar,2023,Medicine,Medicine,349
+Central,CanineCare,167,115010.5694291867,Jun,2024,Medicine,Antibiotic,482
+South,MediPet,465,178588.15515360935,Feb,2023,Antibiotic,Supplement,312
+North,PetGuard,272,83869.48041511963,Jan,2023,Vaccine,Supplement,226
+West,MediPet,449,192285.7295181893,Apr,2024,Vaccine,Supplement,312
+East,MediPet,633,295476.86681190104,Jul,2024,Supplement,Supplement,312
+Central,VetCare Plus,676,337651.26187187445,Mar,2024,Supplement,Medicine,444
+Central,VetCare Plus,50,32107.2351750502,Feb,2024,Supplement,Medicine,444
+South,FurryVax,769,177655.6029482499,Jun,2024,Antibiotic,Vaccine,183
+West,FurWell,728,302030.9143026306,Aug,2023,Vaccine,Medicine,353
+West,PawShield,910,476061.8258798782,Mar,2024,Supplement,Medicine,349
+South,HealthyPaws,61,32694.461426078047,Jan,2023,Vaccine,Supplement,386
+West,FurryVax,189,49945.74143248696,Mar,2023,Antibiotic,Vaccine,183
+Central,FurryVax,688,166296.52281003675,Aug,2023,Antibiotic,Vaccine,183
+West,FurryVax,413,101414.11688608094,Mar,2023,Antibiotic,Vaccine,183
+Central,CanineCare,917,650007.771297217,May,2023,Antibiotic,Antibiotic,482
+Central,PawShield,84,33574.610663852574,Aug,2023,Supplement,Medicine,349
+West,PetGuard,195,57702.73357328348,Aug,2024,Medicine,Supplement,226
+Central,PetGuard,301,91509.63950688846,Feb,2024,Supplement,Supplement,226
+East,VetCare Plus,530,298481.4041337009,Aug,2024,Supplement,Medicine,444
+East,MediPet,221,77541.15104198307,May,2023,Supplement,Supplement,312
+West,HealthyPaws,636,298210.4383543691,May,2023,Medicine,Supplement,386
+North,HealthyPaws,567,252351.2794821284,May,2023,Supplement,Supplement,386
+East,MediPet,928,388420.8293262392,Jan,2024,Medicine,Supplement,312
+Central,HealthyPaws,724,336614.6772903452,Jun,2024,Vaccine,Supplement,386
+South,CanineCare,235,168425.49597138795,Jun,2023,Medicine,Antibiotic,482
+Central,HealthyPaws,907,418434.5497308163,Jul,2024,Antibiotic,Supplement,386
+West,HealthyPaws,265,143430.38053914855,Jan,2024,Supplement,Supplement,386
+North,VetCare Plus,221,119764.93930383072,Jul,2024,Antibiotic,Medicine,444
+Central,FurWell,438,179052.2783853465,Aug,2024,Supplement,Medicine,353
+West,VetCare Plus,345,227427.1255518324,Jul,2024,Supplement,Medicine,444
+North,PetGuard,989,275813.3619691303,Jul,2024,Supplement,Supplement,226
+East,PetGuard,311,97959.38222060932,Aug,2024,Vaccine,Supplement,226
+Central,FurWell,582,270992.5236229992,Mar,2024,Supplement,Medicine,353
+North,PetGuard,62,19255.287890364358,Feb,2024,Medicine,Supplement,226
+East,FurWell,792,311340.50392027525,May,2024,Vaccine,Medicine,353
+Central,PetGuard,108,27692.20744721892,Feb,2023,Medicine,Supplement,226
+Central,HealthyPaws,434,201252.32652849943,Feb,2023,Vaccine,Supplement,386
+West,PetGuard,704,219068.48329311967,May,2024,Antibiotic,Supplement,226
+East,MediPet,215,84059.26283355548,May,2023,Medicine,Supplement,312
+East,VetCare Plus,314,157227.7034696397,Mar,2024,Antibiotic,Medicine,444
+South,FurryVax,232,55882.83153954816,Feb,2024,Vaccine,Vaccine,183
+West,FurWell,678,273155.44744378154,Aug,2023,Supplement,Medicine,353
+North,PetGuard,635,209324.39740152692,Aug,2024,Medicine,Supplement,226
+South,VetCare Plus,88,53920.222699425074,May,2024,Vaccine,Medicine,444
+West,VetCare Plus,577,323197.8400135018,Aug,2024,Antibiotic,Medicine,444
+North,FurWell,53,24824.92634161712,Aug,2024,Medicine,Medicine,353
+East,PawShield,748,353179.6030455499,Jul,2024,Medicine,Medicine,349
+North,PawShield,597,292565.3723043569,Feb,2024,Antibiotic,Medicine,349
+East,FurWell,230,99015.11332988346,Jul,2023,Vaccine,Medicine,353
+West,PetGuard,695,228393.23490939295,Aug,2024,Medicine,Supplement,226
+West,FurWell,193,94555.94027925616,Apr,2023,Medicine,Medicine,353
+Central,FurWell,550,252370.4712066485,Feb,2024,Supplement,Medicine,353
+West,VetCare Plus,87,54662.92365234867,Jan,2024,Supplement,Medicine,444
+North,FurryVax,171,43698.189828185634,Aug,2023,Vaccine,Vaccine,183
+South,PetGuard,87,25334.248191705203,Aug,2023,Medicine,Supplement,226
+Central,VetCare Plus,298,179026.6809604467,Jan,2023,Vaccine,Medicine,444
+East,PetGuard,517,133862.59296007527,Feb,2023,Medicine,Supplement,226
+Central,FurWell,114,57329.09171151557,Jul,2023,Supplement,Medicine,353
+West,PawShield,173,84871.41474147553,Jun,2023,Vaccine,Medicine,349
+Central,HealthyPaws,393,175437.9361934985,Feb,2023,Supplement,Supplement,386
+West,HealthyPaws,763,352672.88923953206,Mar,2024,Antibiotic,Supplement,386
+Central,VetCare Plus,186,91358.7259458158,Jul,2023,Vaccine,Medicine,444
+West,PetGuard,56,17499.406896187727,Mar,2023,Medicine,Supplement,226
+Central,MediPet,476,171863.3057793075,Mar,2024,Vaccine,Supplement,312
+East,CanineCare,471,303870.9421346368,Mar,2023,Medicine,Antibiotic,482
+West,PetGuard,692,172317.08715845778,Jun,2024,Antibiotic,Supplement,226
+South,FurWell,170,77154.04103373761,Jun,2023,Vaccine,Medicine,353
+South,MediPet,104,44586.71573730418,Feb,2023,Vaccine,Supplement,312
+West,CanineCare,230,150541.70893804563,Jan,2023,Medicine,Antibiotic,482
+East,FurWell,495,195236.13213257797,Jun,2024,Antibiotic,Medicine,353
+North,HealthyPaws,211,91899.08908573572,Aug,2023,Medicine,Supplement,386
+South,CanineCare,656,442300.34190807154,Jul,2024,Vaccine,Antibiotic,482
+East,FurWell,847,340618.2173717715,Jun,2023,Vaccine,Medicine,353
+West,FurWell,434,204377.1216190524,Feb,2023,Antibiotic,Medicine,353
+North,FurryVax,198,45471.21049244064,Aug,2023,Vaccine,Vaccine,183
+South,CanineCare,787,447949.58641560975,Jun,2023,Supplement,Antibiotic,482
+South,VetCare Plus,758,385164.81888754654,May,2023,Vaccine,Medicine,444
+West,CanineCare,478,335125.6326013924,Jun,2023,Vaccine,Antibiotic,482
+Central,HealthyPaws,858,418846.3288013799,Apr,2023,Medicine,Supplement,386
+Central,CanineCare,932,544310.5034604892,Aug,2023,Antibiotic,Antibiotic,482
+West,FurWell,303,155810.28259314387,Jul,2024,Vaccine,Medicine,353
+Central,HealthyPaws,985,424323.2842607859,Jul,2023,Medicine,Supplement,386
+West,VetCare Plus,485,275845.48969273176,Aug,2024,Medicine,Medicine,444
+South,PetGuard,621,161830.83944121245,Jul,2023,Vaccine,Supplement,226
+East,FurWell,713,344213.46129275265,Jan,2023,Antibiotic,Medicine,353
+South,CanineCare,928,630121.0846606907,Aug,2023,Antibiotic,Antibiotic,482
+West,HealthyPaws,858,478286.1637672302,Aug,2024,Medicine,Supplement,386
+North,FurryVax,964,224106.90730520032,Jan,2024,Supplement,Vaccine,183
+East,FurWell,856,394599.5571484033,Jun,2023,Medicine,Medicine,353
+East,VetCare Plus,163,97532.370428807,Jun,2024,Antibiotic,Medicine,444
+East,PawShield,229,119282.1443607894,Apr,2023,Vaccine,Medicine,349
+South,PetGuard,714,198184.9293122976,Apr,2024,Vaccine,Supplement,226
+East,FurryVax,333,75448.0050669624,Feb,2023,Supplement,Vaccine,183
+West,PetGuard,531,170403.90539463406,Aug,2024,Supplement,Supplement,226
+North,FurWell,963,427056.1877305443,Feb,2024,Medicine,Medicine,353
+South,MediPet,128,45719.12546138368,Mar,2023,Supplement,Supplement,312
+South,CanineCare,204,124543.68663363556,Jan,2023,Supplement,Antibiotic,482
+Central,HealthyPaws,535,288098.7343854719,Jul,2024,Antibiotic,Supplement,386
+North,MediPet,243,108718.55242845944,Jan,2023,Vaccine,Supplement,312
+Central,PawShield,471,219831.0888915021,Jun,2024,Antibiotic,Medicine,349
+Central,CanineCare,518,291795.05541214114,Mar,2024,Supplement,Antibiotic,482
+East,FurWell,545,223038.7282626187,May,2024,Medicine,Medicine,353
+East,CanineCare,220,157923.5094817731,May,2023,Vaccine,Antibiotic,482
+South,HealthyPaws,293,150398.85911456915,Jan,2023,Supplement,Supplement,386
+West,MediPet,428,182439.72920375885,Apr,2023,Medicine,Supplement,312
+East,HealthyPaws,431,191087.3236956743,Mar,2024,Supplement,Supplement,386
+North,FurryVax,561,119337.6586385425,Aug,2023,Supplement,Vaccine,183
+Central,PawShield,712,369710.93827933975,Aug,2024,Supplement,Medicine,349
+Central,HealthyPaws,868,466606.6773495725,Jun,2024,Medicine,Supplement,386
+North,HealthyPaws,744,362039.0749991848,May,2023,Medicine,Supplement,386
+South,CanineCare,415,268692.3945874923,Jun,2023,Medicine,Antibiotic,482
+South,FurWell,850,340087.4178382773,Apr,2024,Medicine,Medicine,353
+West,PetGuard,574,159184.72577016908,Apr,2024,Antibiotic,Supplement,226
+Central,VetCare Plus,980,603244.0626482583,Jul,2024,Vaccine,Medicine,444
+West,PawShield,445,192262.6334818071,Jan,2024,Supplement,Medicine,349
+East,CanineCare,945,636142.3765525463,Apr,2023,Antibiotic,Antibiotic,482
+West,CanineCare,345,192202.48426064017,Jul,2023,Antibiotic,Antibiotic,482
+Central,PetGuard,197,66576.10498194094,May,2023,Antibiotic,Supplement,226
+Central,PawShield,117,51604.10250487436,Feb,2024,Medicine,Medicine,349
+East,FurryVax,229,49215.68838551197,Mar,2024,Vaccine,Vaccine,183
+West,MediPet,617,276018.79586183705,Jan,2024,Supplement,Supplement,312
+East,CanineCare,622,424668.7140765832,Apr,2024,Medicine,Antibiotic,482
+South,MediPet,357,141108.2359641886,Feb,2024,Supplement,Supplement,312
+West,FurWell,79,41767.28523604521,May,2023,Antibiotic,Medicine,353
+North,PawShield,645,304161.5201073063,Jul,2024,Supplement,Medicine,349
+West,PetGuard,432,130110.43673758653,May,2023,Vaccine,Supplement,226
+South,PawShield,522,204249.83595493,Jun,2023,Vaccine,Medicine,349
+East,FurryVax,701,156077.51817700942,Jan,2024,Supplement,Vaccine,183
+North,FurWell,834,387870.199568713,Feb,2023,Vaccine,Medicine,353
+East,MediPet,327,145825.54834892345,Feb,2024,Supplement,Supplement,312
+North,HealthyPaws,580,283162.93186554103,Jun,2024,Antibiotic,Supplement,386
+South,PetGuard,273,87490.39820940675,Apr,2023,Vaccine,Supplement,226
+Central,PetGuard,477,153891.44043926324,Feb,2024,Medicine,Supplement,226
+North,CanineCare,406,279216.3751686922,Jun,2024,Vaccine,Antibiotic,482
+Central,PawShield,226,93776.70115354724,Jan,2024,Medicine,Medicine,349
+South,FurWell,364,191767.09222259556,Apr,2023,Vaccine,Medicine,353
+West,PetGuard,129,32565.215556891017,Aug,2023,Antibiotic,Supplement,226
+North,VetCare Plus,862,560088.640527591,Aug,2023,Medicine,Medicine,444
+North,PetGuard,358,118776.11788535648,Feb,2023,Medicine,Supplement,226
+South,FurWell,239,97715.78221615792,Jan,2024,Medicine,Medicine,353
+East,PawShield,410,163071.41296405983,Apr,2023,Medicine,Medicine,349
+Central,VetCare Plus,591,306674.01748829865,Apr,2023,Supplement,Medicine,444
+Central,VetCare Plus,792,438359.1960168631,Apr,2023,Antibiotic,Medicine,444
+Central,HealthyPaws,500,288056.44679148705,Mar,2023,Supplement,Supplement,386
+West,FurWell,576,285587.14397375385,Jul,2023,Medicine,Medicine,353
+East,PetGuard,527,167327.52790484324,Mar,2023,Antibiotic,Supplement,226
+East,VetCare Plus,134,74602.77493172213,Aug,2024,Medicine,Medicine,444
+West,MediPet,753,285737.5574649665,Apr,2024,Antibiotic,Supplement,312
+West,FurWell,927,383422.7517360149,Aug,2023,Supplement,Medicine,353
+West,PetGuard,455,119009.99454617043,Feb,2024,Medicine,Supplement,226
+West,PetGuard,809,272437.8347972743,Feb,2023,Supplement,Supplement,226
+East,FurWell,659,333876.4251586278,Feb,2024,Vaccine,Medicine,353
+West,MediPet,833,335351.7390894017,Jul,2024,Supplement,Supplement,312
+Central,FurryVax,546,114227.72311804588,Mar,2024,Antibiotic,Vaccine,183
+East,CanineCare,559,307116.5753027407,Mar,2023,Medicine,Antibiotic,482
+North,PetGuard,560,169822.45657408267,Mar,2023,Antibiotic,Supplement,226
+East,HealthyPaws,360,196919.1829839897,Feb,2023,Antibiotic,Supplement,386
+South,MediPet,727,298721.59317687835,Aug,2024,Supplement,Supplement,312
+Central,VetCare Plus,832,463035.178203977,Jul,2023,Medicine,Medicine,444
+East,FurryVax,503,107766.15220311465,Jan,2024,Medicine,Vaccine,183
+East,HealthyPaws,553,295914.53624483454,Mar,2024,Supplement,Supplement,386
+West,PetGuard,632,189238.4259601496,Aug,2024,Antibiotic,Supplement,226
+South,VetCare Plus,450,269085.8189361163,Aug,2024,Antibiotic,Medicine,444
+East,MediPet,378,135777.26673379145,Jan,2023,Medicine,Supplement,312
+East,PawShield,878,348996.278713888,Jun,2023,Antibiotic,Medicine,349
+East,PawShield,471,197097.9121429203,Jan,2024,Vaccine,Medicine,349
+East,PetGuard,982,274094.38746402104,May,2023,Medicine,Supplement,226
+North,PawShield,88,37058.5596815425,Jul,2024,Antibiotic,Medicine,349
+West,VetCare Plus,374,220690.9908805964,Jul,2024,Supplement,Medicine,444
+West,PetGuard,757,222596.0577524475,Jun,2023,Antibiotic,Supplement,226
+East,HealthyPaws,679,309455.29021570703,Jun,2024,Antibiotic,Supplement,386
+North,FurWell,344,181964.76850405865,Jan,2024,Supplement,Medicine,353
+West,FurWell,689,294133.4994515335,Feb,2023,Supplement,Medicine,353
+Central,CanineCare,487,319382.5369572268,Jun,2023,Medicine,Antibiotic,482
+East,MediPet,493,193949.72952306436,Apr,2024,Antibiotic,Supplement,312
+Central,CanineCare,737,472723.1404565754,Jan,2023,Vaccine,Antibiotic,482
+South,CanineCare,324,194540.01861329563,Jan,2024,Vaccine,Antibiotic,482
+South,FurWell,204,88391.94112368736,Jul,2024,Antibiotic,Medicine,353
+North,FurWell,916,439241.4399856824,May,2024,Supplement,Medicine,353
+East,FurWell,465,193160.3214817718,Feb,2023,Vaccine,Medicine,353
+South,MediPet,525,222566.3327948641,Jul,2024,Antibiotic,Supplement,312
+North,FurWell,213,90479.34022574272,Mar,2024,Medicine,Medicine,353
+East,HealthyPaws,709,307098.05442897615,Aug,2023,Medicine,Supplement,386
+North,PawShield,666,339053.63689398905,Feb,2024,Antibiotic,Medicine,349
+North,FurryVax,909,220973.58349867348,Apr,2023,Medicine,Vaccine,183
+Central,PetGuard,584,157751.33426484707,Aug,2024,Medicine,Supplement,226
+North,PawShield,387,160347.2466112155,Apr,2024,Antibiotic,Medicine,349
+North,HealthyPaws,269,124779.64037857756,Aug,2024,Antibiotic,Supplement,386
+Central,VetCare Plus,552,323099.0234790556,Feb,2024,Supplement,Medicine,444
+West,FurWell,334,163443.8277023828,Jun,2023,Antibiotic,Medicine,353
+East,VetCare Plus,710,378664.131281024,Jan,2023,Vaccine,Medicine,444
+West,MediPet,704,316964.99152800115,Feb,2024,Vaccine,Supplement,312
+West,VetCare Plus,981,494844.3174952517,May,2024,Supplement,Medicine,444
+South,MediPet,265,120033.74080990744,Aug,2023,Supplement,Supplement,312
+West,VetCare Plus,330,204362.6947732779,Aug,2023,Antibiotic,Medicine,444
+East,FurryVax,947,225730.41103876088,Mar,2023,Supplement,Vaccine,183
+East,FurryVax,666,171213.01732605606,Aug,2024,Medicine,Vaccine,183
+South,CanineCare,860,489146.088348512,Jan,2023,Antibiotic,Antibiotic,482
+East,PawShield,639,267577.83633434854,Feb,2023,Vaccine,Medicine,349
+South,FurryVax,861,228372.1804999081,Aug,2024,Antibiotic,Vaccine,183
+South,MediPet,227,80297.38851500838,May,2024,Vaccine,Supplement,312
+East,HealthyPaws,452,258086.60453448188,Apr,2024,Medicine,Supplement,386
+Central,FurWell,978,415907.97974247095,Aug,2023,Vaccine,Medicine,353
+South,VetCare Plus,460,231939.94929834796,May,2024,Vaccine,Medicine,444
+East,HealthyPaws,630,342724.20781994745,Jan,2023,Antibiotic,Supplement,386
+West,CanineCare,171,121854.40994928048,Apr,2023,Vaccine,Antibiotic,482
+East,MediPet,814,323180.2318726849,Jul,2024,Vaccine,Supplement,312
+South,FurWell,893,369495.0257419725,Apr,2024,Antibiotic,Medicine,353
+South,VetCare Plus,347,225390.89860232428,Apr,2024,Antibiotic,Medicine,444
+East,CanineCare,137,95655.35937683353,Aug,2023,Vaccine,Antibiotic,482
+West,FurWell,780,310920.0535684056,Jul,2024,Supplement,Medicine,353
+Central,VetCare Plus,103,66919.20640269197,Apr,2024,Antibiotic,Medicine,444
+Central,VetCare Plus,55,36410.45319836884,Jul,2024,Supplement,Medicine,444
+East,HealthyPaws,963,434146.7740487985,Mar,2023,Supplement,Supplement,386
+West,PawShield,948,405931.2368220969,Mar,2024,Medicine,Medicine,349
+Central,FurryVax,195,39883.87069308271,Feb,2024,Supplement,Vaccine,183
+South,CanineCare,942,550832.6517766344,Jun,2024,Antibiotic,Antibiotic,482
+East,MediPet,579,221513.67892609228,Jul,2024,Vaccine,Supplement,312
+West,HealthyPaws,619,277031.6255638121,Jan,2024,Vaccine,Supplement,386
+South,HealthyPaws,86,45889.657274409954,May,2024,Vaccine,Supplement,386
+West,PetGuard,966,271281.21827933466,Jan,2024,Antibiotic,Supplement,226
+Central,CanineCare,518,286992.9978146547,Feb,2024,Vaccine,Antibiotic,482
+North,FurWell,939,464045.4008255744,Mar,2024,Vaccine,Medicine,353
+East,FurWell,647,335315.7361592905,Mar,2023,Antibiotic,Medicine,353
+South,CanineCare,743,434662.00298132206,Jun,2023,Medicine,Antibiotic,482
+North,FurryVax,432,87874.6810580508,Jun,2023,Vaccine,Vaccine,183
+West,CanineCare,514,368626.2821013302,Jan,2024,Supplement,Antibiotic,482
+Central,CanineCare,382,261570.82334598992,Apr,2023,Medicine,Antibiotic,482
+East,PawShield,867,344043.0450050289,Feb,2023,Antibiotic,Medicine,349
+East,HealthyPaws,295,164079.64801257945,Feb,2024,Medicine,Supplement,386
+South,FurryVax,848,178188.59932039282,May,2024,Vaccine,Vaccine,183
+West,FurryVax,803,200762.91680350748,Mar,2024,Supplement,Vaccine,183
+East,FurWell,551,234841.31977366595,Jul,2024,Antibiotic,Medicine,353
+Central,FurryVax,142,33096.87060094182,Jun,2024,Vaccine,Vaccine,183
+West,PetGuard,91,27950.10398237449,Aug,2024,Vaccine,Supplement,226
+South,CanineCare,589,361953.542845392,May,2023,Antibiotic,Antibiotic,482
+West,MediPet,202,82513.34152058771,May,2023,Vaccine,Supplement,312
+East,VetCare Plus,614,355562.316906423,Jan,2023,Medicine,Medicine,444
+West,PetGuard,525,158306.05181053866,Jun,2024,Supplement,Supplement,226
+Central,VetCare Plus,166,105924.730246766,Mar,2024,Vaccine,Medicine,444
+North,PetGuard,476,150922.8569424864,Jun,2024,Antibiotic,Supplement,226
+West,MediPet,399,140831.80690854843,Apr,2023,Vaccine,Supplement,312
+Central,MediPet,942,323981.79085552884,Jul,2023,Medicine,Supplement,312
+North,VetCare Plus,225,144606.4696186958,Aug,2024,Antibiotic,Medicine,444
+Central,CanineCare,360,196954.57914622285,Jul,2024,Supplement,Antibiotic,482
+South,VetCare Plus,245,157035.33146088413,Jan,2023,Vaccine,Medicine,444
+South,CanineCare,714,494484.19578394,Apr,2023,Antibiotic,Antibiotic,482
+Central,FurWell,138,62821.36176351137,Aug,2024,Vaccine,Medicine,353
+North,PetGuard,220,64068.97718279329,Aug,2023,Antibiotic,Supplement,226
+West,FurWell,256,111472.54474394198,Jul,2024,Medicine,Medicine,353
+North,FurryVax,475,112567.75376138752,May,2024,Medicine,Vaccine,183
+West,CanineCare,287,184061.87251774315,Jan,2023,Antibiotic,Antibiotic,482
+Central,PetGuard,324,95038.56604670388,Aug,2024,Medicine,Supplement,226
+East,CanineCare,764,447496.5576994928,Jan,2024,Vaccine,Antibiotic,482
+South,CanineCare,402,258687.24092154825,Apr,2024,Vaccine,Antibiotic,482
+East,CanineCare,184,127110.50607323908,Jul,2024,Antibiotic,Antibiotic,482
+East,CanineCare,868,575802.1110883416,Apr,2023,Supplement,Antibiotic,482
+North,CanineCare,182,117751.89036501796,Apr,2023,Vaccine,Antibiotic,482
+North,FurryVax,555,134343.29633369614,Apr,2024,Vaccine,Vaccine,183
+North,PawShield,952,388692.2564787754,Jun,2024,Vaccine,Medicine,349
+Central,VetCare Plus,876,445569.469135825,Jun,2023,Antibiotic,Medicine,444
+South,PetGuard,625,211516.9494318092,Aug,2023,Supplement,Supplement,226
+East,VetCare Plus,838,514412.5961585064,Mar,2024,Medicine,Medicine,444
+West,CanineCare,911,627671.7593377023,Feb,2023,Medicine,Antibiotic,482
+North,PetGuard,221,58077.85904412309,Apr,2023,Supplement,Supplement,226
+East,CanineCare,830,543616.4055809873,Feb,2024,Vaccine,Antibiotic,482
+East,HealthyPaws,175,95089.30548384249,Aug,2023,Antibiotic,Supplement,386
+North,FurWell,904,415486.7251402488,Jun,2024,Supplement,Medicine,353
+North,MediPet,431,156074.18529597865,Jun,2024,Vaccine,Supplement,312
+Central,FurryVax,856,198216.70345115068,Mar,2023,Antibiotic,Vaccine,183
+West,CanineCare,922,514723.6991514044,Jan,2024,Antibiotic,Antibiotic,482
+North,PetGuard,136,45882.02367838515,Jun,2024,Antibiotic,Supplement,226
+South,FurryVax,112,29944.74726109542,Jan,2024,Vaccine,Vaccine,183
+North,MediPet,479,218745.89301968107,May,2024,Supplement,Supplement,312
+North,MediPet,971,411273.0145035554,Jul,2023,Antibiotic,Supplement,312
+Central,CanineCare,764,534839.6659424732,Jul,2024,Vaccine,Antibiotic,482
+North,VetCare Plus,600,348501.2515218513,Jul,2024,Vaccine,Medicine,444
+Central,MediPet,268,117298.0741804167,May,2023,Supplement,Supplement,312
+South,VetCare Plus,78,48159.38728852432,Apr,2024,Supplement,Medicine,444
+Central,PetGuard,799,243918.60312351343,Jun,2023,Supplement,Supplement,226
+East,PetGuard,98,29434.118634438357,Aug,2023,Supplement,Supplement,226
+North,CanineCare,397,233390.76993851364,Apr,2023,Supplement,Antibiotic,482
+Central,HealthyPaws,781,371146.4850288888,Apr,2024,Medicine,Supplement,386
+Central,FurWell,892,364822.0408957437,Aug,2024,Medicine,Medicine,353
+West,FurryVax,133,35423.07111041132,Jan,2023,Antibiotic,Vaccine,183
+West,FurWell,506,238507.86219630192,Jun,2023,Antibiotic,Medicine,353
+Central,FurryVax,942,258338.4715762485,Aug,2024,Antibiotic,Vaccine,183
+West,FurryVax,893,211448.7855531201,Mar,2023,Vaccine,Vaccine,183
+West,HealthyPaws,771,383715.9821226125,Apr,2023,Antibiotic,Supplement,386
+South,PawShield,993,397967.542687701,Jul,2023,Medicine,Medicine,349
+Central,MediPet,91,34694.167609933145,Feb,2023,Supplement,Supplement,312
+East,MediPet,351,126689.60576215592,Jan,2024,Vaccine,Supplement,312
+Central,FurryVax,99,21255.42336629656,May,2024,Vaccine,Vaccine,183
+West,VetCare Plus,175,98448.23579605644,Feb,2024,Medicine,Medicine,444
+Central,MediPet,629,253177.78237040373,Jun,2024,Antibiotic,Supplement,312
+Central,HealthyPaws,830,437923.6728948192,Aug,2023,Antibiotic,Supplement,386
+South,PawShield,141,71849.95102126925,Jul,2024,Vaccine,Medicine,349
+East,VetCare Plus,736,472654.3090026148,May,2024,Medicine,Medicine,444
+North,MediPet,624,288540.724447269,Feb,2023,Vaccine,Supplement,312
+Central,VetCare Plus,633,322679.5309218041,Aug,2023,Medicine,Medicine,444
+Central,HealthyPaws,69,38136.591254715386,Apr,2024,Vaccine,Supplement,386
+Central,CanineCare,136,84994.01629893822,Jul,2024,Medicine,Antibiotic,482
+North,PawShield,497,250441.73829433369,Jul,2023,Medicine,Medicine,349
+East,FurryVax,313,75419.93000297788,Feb,2023,Medicine,Vaccine,183
+East,HealthyPaws,237,111856.65947369914,Feb,2024,Vaccine,Supplement,386
+West,HealthyPaws,110,58820.697788429214,Mar,2024,Medicine,Supplement,386
+East,FurryVax,151,40266.929417863816,Mar,2024,Antibiotic,Vaccine,183
+East,FurryVax,897,196299.8396397069,Jan,2023,Vaccine,Vaccine,183
+Central,FurWell,554,219861.1243450955,Feb,2024,Supplement,Medicine,353
+West,FurryVax,117,28978.00106847172,Jan,2024,Antibiotic,Vaccine,183
+North,MediPet,617,235210.0762118982,Apr,2023,Vaccine,Supplement,312
+West,CanineCare,135,85643.56593312036,Mar,2023,Supplement,Antibiotic,482
+South,FurWell,600,233064.80968570092,Aug,2024,Medicine,Medicine,353
+West,MediPet,718,330065.785161079,Jan,2023,Medicine,Supplement,312
+West,MediPet,662,296798.6612875538,Jul,2024,Supplement,Supplement,312
+South,MediPet,96,34022.058715248626,Feb,2023,Supplement,Supplement,312
+North,HealthyPaws,792,410931.3825790215,Jul,2024,Vaccine,Supplement,386
+East,PawShield,700,292762.1120092103,Aug,2024,Supplement,Medicine,349
+East,PawShield,265,135546.69081699935,Jun,2024,Medicine,Medicine,349
+South,VetCare Plus,673,409098.2984124978,Jan,2024,Medicine,Medicine,444
+West,CanineCare,830,526262.8201092507,Feb,2024,Medicine,Antibiotic,482
+West,PetGuard,411,108757.86318272023,Jun,2024,Antibiotic,Supplement,226
+North,PetGuard,523,130460.48946332133,Apr,2024,Antibiotic,Supplement,226
+North,MediPet,746,332023.5977433563,Apr,2024,Medicine,Supplement,312
+East,FurWell,289,123675.4685497935,Jun,2024,Medicine,Medicine,353
+Central,FurWell,57,29134.53380570564,Jul,2023,Medicine,Medicine,353
+Central,CanineCare,224,144165.98151366267,Mar,2023,Medicine,Antibiotic,482
+North,HealthyPaws,315,174976.14084987473,May,2023,Vaccine,Supplement,386
+North,MediPet,747,316124.8666210035,Jan,2024,Antibiotic,Supplement,312
+North,PawShield,492,235595.29084776476,May,2024,Medicine,Medicine,349
+West,CanineCare,420,245189.90509497875,Apr,2023,Medicine,Antibiotic,482
+West,CanineCare,373,221834.767885876,Jul,2023,Vaccine,Antibiotic,482
+Central,VetCare Plus,805,524262.97286298673,Jul,2023,Medicine,Medicine,444
+South,HealthyPaws,387,165985.6749905835,Feb,2024,Medicine,Supplement,386
+West,VetCare Plus,656,332954.4400185102,May,2024,Vaccine,Medicine,444
+South,PawShield,902,465088.5560841089,Jun,2023,Vaccine,Medicine,349
+Central,CanineCare,832,454846.9868641619,Aug,2023,Medicine,Antibiotic,482
+North,VetCare Plus,436,217743.45615245737,Feb,2024,Vaccine,Medicine,444
+West,VetCare Plus,358,217927.29025779935,Feb,2024,Medicine,Medicine,444
+Central,VetCare Plus,351,209909.5236792236,Jul,2024,Medicine,Medicine,444
+West,FurWell,935,424346.3128915521,Aug,2023,Antibiotic,Medicine,353
+West,PetGuard,397,119790.11598741951,Aug,2023,Supplement,Supplement,226
+North,PetGuard,62,18985.49626558625,Apr,2023,Vaccine,Supplement,226
+East,PawShield,481,200983.0053232193,Aug,2024,Vaccine,Medicine,349
+North,VetCare Plus,180,97860.06566359574,Jul,2024,Supplement,Medicine,444
+Central,HealthyPaws,200,93908.05461428664,May,2024,Supplement,Supplement,386
+North,HealthyPaws,108,51590.00228086154,Jan,2023,Antibiotic,Supplement,386
+South,FurWell,854,412141.9812869341,Jun,2023,Vaccine,Medicine,353
+West,PawShield,922,396252.7521664802,May,2024,Antibiotic,Medicine,349
+North,CanineCare,947,670065.9987803387,Aug,2023,Vaccine,Antibiotic,482
+South,FurWell,527,259296.4204768706,Apr,2023,Antibiotic,Medicine,353
+East,FurryVax,260,59243.135921867695,Mar,2024,Medicine,Vaccine,183
+North,PawShield,80,35630.47787877245,Mar,2023,Supplement,Medicine,349
+Central,PawShield,94,39814.685440287154,Apr,2023,Vaccine,Medicine,349
+South,MediPet,786,287268.8288632823,Jun,2023,Vaccine,Supplement,312
+North,HealthyPaws,913,504866.3773939264,Feb,2024,Medicine,Supplement,386
+South,FurryVax,720,161014.53461226643,Jun,2023,Vaccine,Vaccine,183
+South,PawShield,878,444727.1430480788,Mar,2024,Antibiotic,Medicine,349
+North,PetGuard,197,58458.36034151322,Apr,2023,Vaccine,Supplement,226
+East,PawShield,663,325152.6365786757,Apr,2024,Medicine,Medicine,349
+Central,FurWell,924,391037.3883403528,Mar,2024,Supplement,Medicine,353
+East,HealthyPaws,921,502637.8779060693,Apr,2024,Medicine,Supplement,386
+Central,PetGuard,221,65307.23924834816,Jun,2024,Antibiotic,Supplement,226
+South,PawShield,779,350578.5414102603,Aug,2024,Antibiotic,Medicine,349
+Central,FurryVax,703,187564.30485377557,Apr,2023,Vaccine,Vaccine,183
+West,FurWell,455,233772.49388766344,May,2023,Antibiotic,Medicine,353
+Central,HealthyPaws,912,406150.6278543093,May,2024,Medicine,Supplement,386
+North,MediPet,505,202638.11207184795,Apr,2024,Medicine,Supplement,312
+Central,PawShield,486,214321.0464156603,Aug,2024,Antibiotic,Medicine,349
+West,PawShield,329,146589.14585704223,Jan,2024,Vaccine,Medicine,349
+East,PetGuard,417,133291.10846224678,May,2023,Medicine,Supplement,226
+South,PetGuard,171,50951.28924570992,Jun,2023,Medicine,Supplement,226
+East,FurWell,741,365701.1670218549,May,2024,Supplement,Medicine,353
+East,FurWell,772,383710.8223883853,May,2023,Medicine,Medicine,353
+East,PawShield,851,382772.7856612485,Jul,2024,Medicine,Medicine,349
+Central,HealthyPaws,936,501960.9454988128,Apr,2024,Vaccine,Supplement,386
+South,CanineCare,289,197352.6640478502,Aug,2024,Supplement,Antibiotic,482
+East,FurWell,489,220947.8222393592,Apr,2024,Antibiotic,Medicine,353
+Central,VetCare Plus,433,284021.8773737803,Mar,2023,Supplement,Medicine,444
+North,CanineCare,879,537079.198587608,Jun,2024,Vaccine,Antibiotic,482
+West,MediPet,383,138791.79534142217,Jan,2023,Vaccine,Supplement,312
+East,FurryVax,440,105786.87262498036,Jul,2023,Medicine,Vaccine,183
+South,CanineCare,161,88256.49095813281,Aug,2024,Supplement,Antibiotic,482
