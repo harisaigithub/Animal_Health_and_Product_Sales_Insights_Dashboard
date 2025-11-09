@@ -81,8 +81,7 @@ Data cleaning and transformation performed in **Python** (`data_cleaning_and_mer
    ```python
    Profit = Revenue - (Units_Sold * Cost_Per_Unit)
    Profit_Margin = (Profit / Revenue) * 100
-   Revenue_per_Case = Revenue / Cases
-````
+   Revenue_per_Case = Revenue / Cases ````
 
 4. Standardized numeric columns and exported cleaned data to `/cleaned_data/`.
 
@@ -114,6 +113,8 @@ Relationships:
 ---
 
 ## **Dashboard Overview**
+
+![Overview](https://github.com/user-attachments/assets/a774c8c4-9759-46b9-93fd-838eff6a0e88)
 
 
 ### **KPIs Displayed**
@@ -201,8 +202,7 @@ Relationships:
 ## **Hosting**
 
 * Published to **Power BI Service → My Workspace → Publish to Web**
-* Shareable live link (replace below once available):
-  🔗 [**View Dashboard**](https://app.powerbi.com/view?r=)
+* [View Power BI Dashboard](https://app.powerbi.com/links/DXWbVb_Ktt?ctid=f6981b0a-3915-4628-be7e-368196415f8f&pbi_source=linkShare)** (Requires Microsoft login)
 
 Offline reports stored in:
 
